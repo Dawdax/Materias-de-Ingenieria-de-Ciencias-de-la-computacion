@@ -1,0 +1,201 @@
+Categoria,Producto,Marca,Cantidad,Unidad,Precio,Establecimiento,Direccion,De partamento,Municipio,Fecha Sondeo
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.40,"MetroLibro, Metrogalerías","Centro Comercial Metrogalerías, local N° 2, Calle Sisimiles, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.35,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.54,Negocios de Oriente S.A de C.V,"4a. Calle Poniente, N° 705, Barrio San Felipe",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$1.40,"Office Depot, Tienda Express Escalón",Paseo Gral. Escalón entre 83 y 85 Av. Sur N° 1323 San Salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,"Papelera y Librería Latino América, Metrocentro 7a etapa","Centro Comercial Metrocentro 7a Etapa, Local 221-P, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.45,Papeleria y libreria Latinoamerica,"7a. Etapa, local. N. 221-P",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.67,Súper Selectos España,Entre Avenida España y Tercera Calle Poniente,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.42,Súper Selectos Plaza Mundo,kilometro 4 1/2 boulevard del EJercito Ctro. Plaza Mundo local ancla -A,San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.65,Súper Selectos San Miguel Centro,"Octava calle poniente , entre tercera y quinta avenida norte # 304, Barrio San Francisco, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.65,Súper Selectos Selectos Metrocentro Octava Etapa,"Condominio Metrocentro Octava Etapa, Local Numero 281",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.60,Utilesa Nº 1,"2a Calle Poniente No 205 2a y 3a Planta, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.75,Walmart Boulevar del Ejército,kilometro 4 1/2 y cuarta avenida sur,San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.75,Walmart Escalon,Colonia Escalon Entre calle Nueva N 1 Y calle Nueva 2 San Salvador.,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.60,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.35,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.35,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.35,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.65,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Bazar La Costura, Casa Matriz","2a Calle Oriente No 4, Chalchuapa",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.60,Creatividad Artística,"1a Calle Oriente y 1a Avenida Sur No 2-1, Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Despensa de Don Juan San Miguel Centro,5a. Avenida norte y avenida Monsenor Romero No.207,San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.65,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.70,"Farmacia y Librería Brasil Nº 10				","2a Calle Poniente No 304, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.90,Farmacia y Librería San Rey N° 11,"Segunda Calle Poniente y Quinta Avenida Norte, San Miguel ",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.00,"Farmacia y Librería San Rey N° 23				","4a. Calle Poniente, local No 207, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Grupo Multicomp,"7a Calle Oriente Callejón Oriente Iglesia El Carmen
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Huguet, S.A. De C.V.","3a. Av. Norte No.103, Barrio. La Merced",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.60,Innovaciones Yésica,"Segunda avenida sur, casa numero 5-12",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.70,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Librería ""Sagrado Corazón""","4a. Avenida Norte N° 4-3 
+",San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,"Librería Cervantes, Avenida Masferrer","Avenida Masferrer Norte, Edificio Barcelona, Local 2 San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.85,"Librería de Papel, 4a Avenida Norte",4a Avenida Norte N° 116,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.70,"Librería EDUCA, Soyapango","2a Av. Sur N° 1, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Librería El Angel Ahuachapán,"Avenida Francisco Menéndez Norte,Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.60,"Librería El Castillo Musical, Sucursal","4a Avenida Norte, Edificio Presidente N° 118, local 1",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.58,Librería Escolar 1a Calle Oriente,1a Calle Oriente N° 115-A,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.65,Librería Escolar 4a Avenida Norte,4a Avenida Norte N° 237,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.67,"Librería Española, Av. España","Av. España Edificio Kauders N° 117, Local 3, San Salvador.",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.60,"Librería Española, Unicentro",Centro Comercial Unicentro Local 12 Soyapango,San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Libreria Karlita Ahuachapan,4a Calle Poniente numero 1- 14 A Ahuachapan ,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Librería Karlita, Chalchuapa",2a Calle Oriente No 11 Barrio Las Ánimas,Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.10,Librería La Nueva Centroamericana,6a Avenida Norte No 119,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.60,Librería Latinoamericana,"Centro Comercial Plaza Mundo, Local N° 36, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Librería Matías Delgado, 2a av sur","2a Avenida Sur, Local N° 202, Barrio El Calvario, San Miguel.",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.85,Librería Medalla Milagrosa,"2a Avenida Sur No 303, Barrio El Calvario, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.95,Librería Moderna Suc. Paseo,"Cond. Balam Quitze, local 15 A-C",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.59,"Librería Nuevo Mundo, 1a Calle Oriente",1a Calle Oriente N° 117,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.65,"Librería Nuevo Mundo, Plaza Soyapango",Boulevard del Ejército Plaza Soyapango II Local #9,San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Librería San Judas,"décima calle poniente, Barrio El Calvario",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.78,"Librería San Rey, Sucursal Centro",4a Avenida Norte N° 210,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.70,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.80,"Librería Shadai, Número 110",4a Avenida Norte Número 110 San Salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.68,Librería Susana,"3a Avenida Norte N. 22, Barrio Las Animas",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.00,Librería y Más Yesi,"6a. Avenida Sur y 7a. Calle Poniente, Plaza Alcazar, Frente a Bodegón Sandoval",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.65,Librería y Papelería ABC,"3a. Calle Oriente y 4a. Avenida Norte local N° 241 Edificio Kury Planta Baja,San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.62,Librería y Papelería Aranda,Primera Calle Oriente N. 127,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.70,Librería y Papelería Diversa,"4a Avenida Norte, N. 220, Local 2, Edificio Hernández",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.36,Librería y Papelería DM,"2a Av. Sur N° 106 Barrio El Calvario, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.60,"Librería y Papelería El Abaco, Unicentro","Centro Comercial Unicentro, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.59,Librería y Papelería El Paseo,"Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.25,libreria y papeleria la Ceiba suc. Metro centro,septima etapa. Local 208p san salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.60,Librería y Papelería La Clásica,1a Avenida Norte y 6a Calle Poniente N° 3 Plaza Floresta San Miguel,San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.55,"Librería y Papelería La Ibérica, Sucursal El Paseo","Paseo General Escalón, No 4713, Contiguo a Farmacia El Paseo",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.04,Librería y Papelería Latinoamérica Metrosur,"Centro Comercial Metrosur, Local 48 G",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.65,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.55,Librería y Papelería Rossy Santa Ana,"Entre 4a avenida Sur y 7a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Librería y Papelería Rossy, Barrio El Calvario, Ahuachapán","6a. Calle Poniente, Barrio El Calvario",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.55,"Librería y Papelería Rossy, barrio San Juan Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.55,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Librería y Papelería Roxy N° 225,"4a Av. Norte N° 225, local C, San Salvador. ",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.78,"Librería y Papelería San Rey, Sucursal Metrosur","Centro Comercial Metrosur, local 8, tercer nivel, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,"Librería y Variedades Danielita, Chalchuapa","7a Avenida Norte casa numero uno, Local numero Cuatro, Barrio las Animas, Las palmeras",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.90,Librería y Variedades Emmanuel,"Cuarta Calle Oriente, Barrio Las Animas, N° 30",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.50,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,"Los Angeles Papelería y Librería			","2a Calle Poniente No 208, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.70,Maxi Despensa Soyapango,"Boulevard del Ejercito Nacional Kilometro 4, Soyapango San Salvador",San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.76,Mercado de San Miguel,,San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Mercado de San Miguel,,San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Mercado de San Miguel,,San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.15,"MetroLibro, Metrogalerías","Centro Comercial Metrogalerías, local N° 2, Calle Sisimiles, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.60,Negocios de Oriente S.A de C.V,"4a. Calle Poniente, N° 705, Barrio San Felipe",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.40,"Office Depot, Tienda Express Escalón",Paseo Gral. Escalón entre 83 y 85 Av. Sur N° 1323 San Salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.04,"Papelera y Librería Latino América, Metrocentro 7a etapa","Centro Comercial Metrocentro 7a Etapa, Local 221-P, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,Papeleria y libreria Latinoamerica,"7a. Etapa, local. N. 221-P",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.64,Súper Selectos España,Entre Avenida España y Tercera Calle Poniente,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.45,Súper Selectos Plaza Mundo,kilometro 4 1/2 boulevard del EJercito Ctro. Plaza Mundo local ancla -A,San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.45,Súper Selectos San Miguel Centro,"Octava calle poniente , entre tercera y quinta avenida norte # 304, Barrio San Francisco, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.45,Súper Selectos Selectos Metrocentro Octava Etapa,"Condominio Metrocentro Octava Etapa, Local Numero 281",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$1.00,Utilesa Nº 1,"2a Calle Poniente No 205 2a y 3a Planta, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.60,Walmart Boulevar del Ejército,kilometro 4 1/2 y cuarta avenida sur,San Salvador,Soyapango,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,Walmart Escalon,Colonia Escalon Entre calle Nueva N 1 Y calle Nueva 2 San Salvador.,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.75,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Tirro Rollo (medida de 3/4), unidad",Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.55,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,"Bazar La Costura, Casa Matriz","2a Calle Oriente No 4, Chalchuapa",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.65,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.30,Farmacia y Librería San Rey N° 11,"Segunda Calle Poniente y Quinta Avenida Norte, San Miguel ",San Miguel,San Miguel,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.35,"Farmacia y Librería San Rey N° 23				","4a. Calle Poniente, local No 207, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$1.00,Grupo Multicomp,"7a Calle Oriente Callejón Oriente Iglesia El Carmen
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.70,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.35,"Librería ""Sagrado Corazón""","4a. Avenida Norte N° 4-3 
+",San Salvador,Soyapango,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.40,"Librería Cervantes, Avenida Masferrer","Avenida Masferrer Norte, Edificio Barcelona, Local 2 San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.30,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.75,"Librería de Papel, 4a Avenida Norte",4a Avenida Norte N° 116,San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.40,"Librería EDUCA, Soyapango","2a Av. Sur N° 1, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.40,Librería El Angel Ahuachapán,"Avenida Francisco Menéndez Norte,Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.43,Librería Escolar 1a Calle Oriente,1a Calle Oriente N° 115-A,San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.35,Librería Escolar 4a Avenida Norte,4a Avenida Norte N° 237,San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.55,"Librería Española, Av. España","Av. España Edificio Kauders N° 117, Local 3, San Salvador.",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,"Librería Española, Unicentro",Centro Comercial Unicentro Local 12 Soyapango,San Salvador,Soyapango,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.35,Libreria Karlita Ahuachapan,4a Calle Poniente numero 1- 14 A Ahuachapan ,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,"Librería Karlita, Chalchuapa",2a Calle Oriente No 11 Barrio Las Ánimas,Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,Librería La Nueva Centroamericana,6a Avenida Norte No 119,San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.25,Librería Latinoamericana,"Centro Comercial Plaza Mundo, Local N° 36, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.30,Librería Medalla Milagrosa,"2a Avenida Sur No 303, Barrio El Calvario, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.59,Librería Moderna Suc. Paseo,"Cond. Balam Quitze, local 15 A-C",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$1.04,"Librería Nuevo Mundo, 1a Calle Oriente",1a Calle Oriente N° 117,San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,"Librería Nuevo Mundo, Plaza Soyapango",Boulevard del Ejército Plaza Soyapango II Local #9,San Salvador,Soyapango,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.52,"Librería San Rey, Sucursal Centro",4a Avenida Norte N° 210,San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.43,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.60,"Librería Shadai, Número 110",4a Avenida Norte Número 110 San Salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.55,Librería Susana,"3a Avenida Norte N. 22, Barrio Las Animas",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,Librería y Más Yesi,"6a. Avenida Sur y 7a. Calle Poniente, Plaza Alcazar, Frente a Bodegón Sandoval",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,Librería y Papelería ABC,"3a. Calle Oriente y 4a. Avenida Norte local N° 241 Edificio Kury Planta Baja,San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.21,Librería y Papelería Aranda,Primera Calle Oriente N. 127,San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.43,Librería y Papelería Diversa,"4a Avenida Norte, N. 220, Local 2, Edificio Hernández",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.25,Librería y Papelería DM,"2a Av. Sur N° 106 Barrio El Calvario, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.25,"Librería y Papelería El Abaco, Unicentro","Centro Comercial Unicentro, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.69,Librería y Papelería El Paseo,"Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.60,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.60,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.35,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.40,Librería y Papelería La Clásica,1a Avenida Norte y 6a Calle Poniente N° 3 Plaza Floresta San Miguel,San Miguel,San Miguel,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.30,"Librería y Papelería La Ibérica, Sucursal El Paseo","Paseo General Escalón, No 4713, Contiguo a Farmacia El Paseo",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.35,Librería y Papelería Latinoamérica Metrosur,"Centro Comercial Metrosur, Local 48 G",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.45,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.40,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.55,Librería y Papelería Rossy Santa Ana,"Entre 4a avenida Sur y 7a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.75,"Librería y Papelería Rossy, barrio San Juan Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.55,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.35,Librería y Papelería Roxy N° 225,"4a Av. Norte N° 225, local C, San Salvador. ",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.52,"Librería y Papelería San Rey, Sucursal Metrosur","Centro Comercial Metrosur, local 8, tercer nivel, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.75,"Librería y Variedades Danielita, Chalchuapa","7a Avenida Norte casa numero uno, Local numero Cuatro, Barrio las Animas, Las palmeras",Santa Ana,Chalchuapa,5/1/2018

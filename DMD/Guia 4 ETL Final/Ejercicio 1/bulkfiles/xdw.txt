@@ -1,0 +1,201 @@
+Categoria,Producto,Marca,Cantidad,Unidad,Precio,Establecimiento,Direccion,De partamento,Municipio,Fecha Sondeo
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.69,Librería y Papelería El Paseo,"Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.60,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.60,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.35,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.35,"Librería y Papelería Getsemani, Santa Ana","5a Calle Poniente y 8a Avenida Sur, No 24 Barrio San Sebastián, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.67,"Librería y Papelería La Ibérica, Sucursal El Paseo","Paseo General Escalón, No 4713, Contiguo a Farmacia El Paseo",San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.25,Librería y Papelería Latinoamérica Metrosur,"Centro Comercial Metrosur, Local 48 G",San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.25,"Librería y Papelería Latinoamericana, Metrocentro",Local Centro Comercial Metrocentro Segunda Etapa,San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.40,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.55,Librería y Papelería Rossy Santa Ana,"Entre 4a avenida Sur y 7a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.75,"Librería y Papelería Rossy, 6a calle poniente, Barrio San Juan, Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.55,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.30,Librería y Papelería Salvadoreña,Cuarta Avenida Norte Local C N° 225 San Salvador,San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.52,Librería y Papelería San Rey Centro,"4a. Avenida Norte, N° 210 Edificio Pompeya, Zona de librerías",San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.52,"Librería y Papelería San Rey, Sucursal Metrosur","Centro Comercial Metrosur, local 8, tercer nivel, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.60,Libreria y Papeleria Shadai,"4ta. Avenida Norte, No. 110",San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.55,"Librería y Papelería Susana			","3a Avenida Norte N° 22, Chalchuapa",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.75,"Librería y Variedades Danielita, Chalchuapa","7a Avenida Norte casa numero uno, Local numero Cuatro, Barrio las Animas, Las palmeras",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.20,Librería y Variedades Montenegro,"1a Calle Oriente N° 10B  y 2a Avenida Sur, costado sur de ex Cine Centenario",Usulutan,Usulutan,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.99,Maxi Despensa Soyapango,"Boulevard del Ejercito Nacional Kilometro 4, Soyapango San Salvador",San Salvador,Soyapango,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.25,"MetroLibro, Metrogalerías","Centro Comercial Metrogalerías, local N° 2, Calle Sisimiles, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.50,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$1.00,"Office Depot, Tienda Express Escalón",Paseo Gral. Escalón entre 83 y 85 Av. Sur N° 1323 San Salvador,San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.25,"Papelera y Librería Latino América, Metrocentro 7a etapa","Centro Comercial Metrocentro 7a Etapa, Local 221-P, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.52,"Papelería San Rey, 7a av norte",7a. Avenida Norte y 3a. Calle Poniente N° 500,San Salvador,San Salvador,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$1.28,Súper Selectos Plaza Mundo,kilometro 4 1/2 boulevard del EJercito Ctro. Plaza Mundo local ancla -A,San Salvador,Soyapango,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$1.28,Súper Selectos Usulutan Centro,"1a calle oriente n 42, barrio El Calvario, Usulutan.",Usulutan,Usulutan,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.75,Tienda y Librería Capricornio,"3a Calle Poniente entre 10a. y Avenida José Matías Delgado Sur, Barrio San Luis, # 5",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.25,Variedades Papel y Kosas,"8a Avenida Sur y 3a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$0.90,Walmart Boulevar del Ejército,kilometro 4 1/2 y cuarta avenida sur,San Salvador,Soyapango,9/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.80,Color Line Librería,6a Avenida Norte local 17 N° 1-5 Sonsonate,Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.50,Curiosidades y Libreria El Regalo,Barrio el recreo frente a Banco Agricola,La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.00,"Distribuidora Papelera Galvez, 4a Avenida Norte",4a Avenida Norte entre Calle Libertad Poniente y 2a Calle Poniente # 1,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$0.95,Farmacia San Rafael y Librería Marcela,Col. Santa Teresa y Av. Bernal No. 76 San Salvador ,San Salvador,San Salvador,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$0.85,Farmacia San Rafael y Librería Marcela,"Centro Comercial Zacamil #2, Local #23, San Salvador ",San Salvador,San Salvador,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.65,Farmacia San Rafael y Libreria Marcela sucursal K # 11,"Centro Comercial Santa Elena Local #110 Urbanizacion Santa Elena, Antiguo Cuscatlan, La Libertad.",La Libertad,Antiguo Cuscatlan,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.95,Farmacia San Rafael y Libreria Marcela Sucursal S # 19,"9a. Calle Oriente, Block 7 - 8 Casa # 11, Col. Santa Monica, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,Farmacia San Rafael y Librería Marcela Sucusal N° 14,"Calle Cortez Blanco Poniente No 1 Centro Comercial Madre Selva, Antiguo Cuscatlán",La Libertad,Antiguo Cuscatlan,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$0.95,"Farmacia y Librería San Rey N° 12				","1a Calle Poniente y Av. Fernando Benítez, Santa Rosa de Lima",La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.00,"Farmacia y Librería San Rey N° 23				","4a. Calle Poniente, local No 207, San Miguel",San Miguel,San Miguel,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.05,"Foto Studio y Librería Nelson				","1a Calle Oriente No 2-2, Barrio El Centro, La Unión",La Union,La Union,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.00,La Nueva Librería,"Calle Urrutia N°4, Barrio el Centro, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.50,Librería América,"8a Avenida Sur y 9a Calle Poniente N° 56, Santa Ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,"Librería Carolina, Calle Leonardo Azcunaga","Calle Leonardo Azcunaga, Local N°5, Apopa",San Salvador,Apopa,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.00,"Librería Eben Ezer, Barrio La Esperanza","1a. Avenida Sur, Barrio La Esperanza",La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.00,Librería Económica,"Centro Comercial Pericentro Apopa, local #30 B Apopa, San Salvador",San Salvador,Apopa,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.50,Librería El Angel San Francisco Gotera,"1a Avenida Norte y Calle Joaquín Rodezno Barrio El Centro, San Francisco Gotera",Morazan,San Francisco Gotera,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.50,Librería El Transito,"Segunda Calle Poniente No 9, Apopa, San Salvador",San Salvador,Apopa,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,"Librería Géminis, Mejicanos","Av. Castro Morán N° 42-A, Mejicanos",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.05,Librería Ibérica #29,"29 Calle Oriente N° 410, Colonia La Rábida",San Salvador,San Salvador,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$3.00,Librería Jacky,"1a.Calle Poniente N° 15, Mejicanos, San Salvador",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.00,"Libreria Karlita Santa Ana, 16 av Sur",Dieciseis Avenida Sur entre quince y Diecisiete calle poniente Numero 30,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.00,"Librería Karlita, Santa Ana","10a Avenida Sur entre 27 y 29 Calle Poniente, Santa Ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,"Libreria Karlita, Santa Ana 2a av sur","2a. Av. Sur entre 23 y 25 Calle Poniente, Santa Ana.",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.00,Librería La Económica,2da Calle Poniente,La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,Librería La Página,"1a Calle Poniente, Local 15-b, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.50,Librería La Popular,"Primera Avenida Sur, N° 2-4, frente a Panadería Tecleña, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,"Librería Líder, Mejicanos","1a Avenida Norte N° 9, Mejicanos",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$0.95,Librería Marcela Centro Comercial La Joya,"Centro Comercial La Joya, Carretera al Puerto de La Libertad, locales 30 y 31",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.55,"Librería Maryori				","2a. Avenida Norte, Barrio El Centro, La Unión",La Union,La Union,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,"Librería Matías Delgado, 2a av sur","2a Avenida Sur, Local N° 202, Barrio El Calvario, San Miguel.",San Miguel,San Miguel,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,Librería Medalla Milagrosa,"2a Avenida Sur No 303, Barrio El Calvario, San Miguel",San Miguel,San Miguel,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.75,Librería Monseñor Romero,"Avenida Quirino Chávez N°5 Barrio El Centro, Apopa",San Salvador,Apopa,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.95,Libreria Nuevo Mundo Sucursal Zacamil,"C.C.Zacamil, local 3,",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.25,Librería Papelería y Equipos Informáticos Camelot,"Calle Ciriaco López, Local N° 10 Centro Comercial Cámelot, planta baja, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.50,Librería San Lucas,"Avenida Castro Morán N° 52, Contiguo a Colegio Jardín, Mejicanos",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.00,Librería Tecleña,2a Calle Poniente y 4a Avenida Sur Santa Tecla,La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$0.60,"Librería Terrazas, Centro Comercial Las Terrazas","Centro Comercial Las Terrazas, Local N° 10",San Salvador,San Salvador,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.50,"Librería y Papelería El Abaco, Metrópolis","Centro Comercial Metrópolis Local N° 5, Mejicanos",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.20,"Librería y Papelería El Abaco, San Luis","Boulevard Universitario, Avenida Izalco, Centro Comercial San Luis, local 4 b, San Salvador
+",San Salvador,San Salvador,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,Librería y Papelería El Estudiante,"Avenida Morazán, frente a Despensa de Don Juan, local N° 2-6. Sonsonate",Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.50,Librería y Papelería El Portal,"Centro Comercial Argoz N° 2, 2a. Calle Oriente, frente a Parque San Martin, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,Librería y Papelería Getsemani,"3a. Avenida Norte, Local B Barrio El centro, Sonsonate",Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.00,Librería y Papelería La Clásica,1a Avenida Norte y 6a Calle Poniente N° 3 Plaza Floresta San Miguel,San Miguel,San Miguel,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.37,Librería y papelería La Ibérica Sucursal Guadalupe,"Avenida Albert Einstein y Calle del Cantábrico, Jardines de Guadalupe",La Libertad,Antiguo Cuscatlan,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.80,"Librería y Papelería La Princesa				","1a. Calle Poniente Nº 3-2, Barrio San Carlos La Unión	
+",La Union,La Union,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.40,Librería Y Papelería Latinoamérica Santa Ana,Centro Comercial Metrocentro Local Numero 267C,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.00,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.38,Librería y Papelería Pinel,Av. Morazán Bo. El Calvario No. 4,Morazan,San Francisco Gotera,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.50,"Librería y Papelería Universal, Antiguo Cuscatlán","Calle Cuscatlán Oriente N° 8, Antiguo Cuscatlaán. ",La Libertad,Antiguo Cuscatlan,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,"Librería y Papelería Universal, Santa Tecla","Segunda Calle Poniente N° 1-4, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.75,Librería y Piñatería Micky Mouse,"Avenida 3 de Mayo y Calle Urrutia L-1, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.75,"Librería y Variedades Bethel		","Avenida Morazán, Barrio El Calvario. N° 20, San Francisco Gotera ",Morazan,San Francisco Gotera,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.70,Librería y Variedades Javier,"Av. Jose Matías Delgado Sur entre 1a y 3a calle poniente #9-A, Santa Ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.50,Librería y Variedades Josselin Sarai,"3a Calle Poniente, Barrio El Centro, frente a Gobernación, La Unión",La Union,La Union,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.00,Libreria y Variedades La Bendición,"17 Calle Poniente 15 C Quezaltepeque, Ciudad de Quezaltepeque. 1a calle Pte y Av. 3 de Mayo",La Libertad,Quezaltepeque,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.50,Librería y Variedades La Heroica,"10a. Avenida sur entre 17 y 19 calle Poniente Barrio San Sebastián una cuadra antes de terminal de buses
+",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.25,Libreria y Variedades Monte los Olivos,"av. Quirino Chavez casa n. 16, Apopa, San Salvador",San Salvador,Apopa,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.00,"Librería y Variedades Nineth				","Antigua Ruta Militar, Barrio La Esperanza, Santa Rosa de Lima",La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.50,"Los Angeles Papelería y Librería			","2a Calle Poniente No 208, San Miguel",San Miguel,San Miguel,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.50,No incluir,4a Calle Oriente Barrio Las Animas N. 30,Santa Ana,Chalchuapa,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$0.98,"Office Express Delivery, 6a. Avenida sur",6a. Avenida sur y 11 Calle poniente N.2113,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$0.99,Papelera San Rey Sucursal Plaza Merliot,Centro Comercial Plaza Merliot Tercer Nivel,La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.40,"Papelera y Librerías Latino América, Unicentro","Centro Comercial Unicentro Metrópolis, local 7, Mejicanos, San Salvador",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$1.62,Súper Selectos Los Leones,"paseo quince de septiembre y avenida oidor ramirez de quiñonez,sonsonate",Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Ábaco,Sin Marca,1,Unidades,$2.70,Utilesa Nº 2,"2a Calle Poniente No 206, San Miguel",San Miguel,San Miguel,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,Al Paso Librería ,"10a Avenida Sur N° 42 entre 11 Calle Poniente y Calle José Mariano Méndez, Santa Ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Color Line Librería,6a Avenida Norte local 17 N° 1-5 Sonsonate,Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Curiosidades y Libreria El Regalo,Barrio el recreo frente a Banco Agricola,La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Destiny Blessing, Avenida Jose Matías Delgado","Avenida Jose Matias Delgado, entra 9a. Y 11a. Calle Poniente, Numero 38-B",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Distribuidora Papelera Galvez, 4a Avenida Norte",4a Avenida Norte entre Calle Libertad Poniente y 2a Calle Poniente # 1,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.30,Farmacia San Rafael y Librería Marcela,Col. Santa Teresa y Av. Bernal No. 76 San Salvador ,San Salvador,San Salvador,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.27,Farmacia San Rafael y Librería Marcela,"Centro Comercial Zacamil #2, Local #23, San Salvador ",San Salvador,San Salvador,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.30,Farmacia San Rafael y Libreria Marcela sucursal K # 11,"Centro Comercial Santa Elena Local #110 Urbanizacion Santa Elena, Antiguo Cuscatlan, La Libertad.",La Libertad,Antiguo Cuscatlan,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.30,Farmacia San Rafael y Libreria Marcela Sucursal S # 19,"9a. Calle Oriente, Block 7 - 8 Casa # 11, Col. Santa Monica, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.30,Farmacia San Rafael y Librería Marcela Sucusal N° 14,"Calle Cortez Blanco Poniente No 1 Centro Comercial Madre Selva, Antiguo Cuscatlán",La Libertad,Antiguo Cuscatlan,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.12,"Farmacia y Librería Brasil Nº 10				","2a Calle Poniente No 304, San Miguel",San Miguel,San Miguel,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.12,Farmacia y Librería Brasil Nº 16,"Centro Comercial Metrocentro San Miguel, local 162",San Miguel,San Miguel,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.17,"Farmacia y Librería San Rey N° 12				","1a Calle Poniente y Av. Fernando Benítez, Santa Rosa de Lima",La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Farmacia y Librería San Rey N° 23				","4a. Calle Poniente, local No 207, San Miguel",San Miguel,San Miguel,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.18,Farmacia y Librería San Rey N° 25,"Avenida Morazán No 24 B, Barrio el Calvario, San Francisco Gotera, Morazán",Morazan,San Francisco Gotera,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,"Foto Studio y Librería Nelson				","1a Calle Oriente No 2-2, Barrio El Centro, La Unión",La Union,La Union,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,"Grupo Dinasty, 1a avenida sur","Primera Avenida Sur Local N° 7 frente al Cametro, Apopa",San Salvador,Apopa,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.13,Innovaciones Yésica,"Segunda avenida sur, casa numero 5-12",Ahuachapan,Ahuachapan,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,La Nueva Librería,"Calle Urrutia N°4, Barrio el Centro, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Librería América,"8a Avenida Sur y 9a Calle Poniente N° 56, Santa Ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Librería Carolina, Calle Leonardo Azcunaga","Calle Leonardo Azcunaga, Local N°5, Apopa",San Salvador,Apopa,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Librería Cervantes, Orden de Malta","Boulevard Orden de Malta Sur Plaza Monte Cristo, Local 12",La Libertad,Antiguo Cuscatlan,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Libreria Dolarcito,"Calle Obispo Marroquin y sexta calle, Barrio El Angel",Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,"Librería Eben Ezer, Barrio La Esperanza","1a. Avenida Sur, Barrio La Esperanza",La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,Librería Económica,"Centro Comercial Pericentro Apopa, local #30 B Apopa, San Salvador",San Salvador,Apopa,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería El Angel San Francisco Gotera,"1a Avenida Norte y Calle Joaquín Rodezno Barrio El Centro, San Francisco Gotera",Morazan,San Francisco Gotera,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,Librería El Estudiante,2a Calle Poniente 2-1 Santa Tecla,La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería El Transito,"Segunda Calle Poniente No 9, Apopa, San Salvador",San Salvador,Apopa,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería Faber,Calle Obispo Marroquín y 6a avenida sur,Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Librería Gamaliel, 1a Calle Oriente",1a Calle Oriente entre Avenida Independencia y 1a Avenida Sur N° 7 Santa Ana,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,"Librería Géminis, Mejicanos","Av. Castro Morán N° 42-A, Mejicanos",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.14,Librería Ibérica #29,"29 Calle Oriente N° 410, Colonia La Rábida",San Salvador,San Salvador,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Librería Jacky,"1a.Calle Poniente N° 15, Mejicanos, San Salvador",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Libreria Karlita Santa Ana, 16 av Sur",Dieciseis Avenida Sur entre quince y Diecisiete calle poniente Numero 30,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Librería Karlita, Santa Ana","10a Avenida Sur entre 27 y 29 Calle Poniente, Santa Ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,"Libreria Karlita, Santa Ana 2a av sur","2a. Av. Sur entre 23 y 25 Calle Poniente, Santa Ana.",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Librería La Económica,2da Calle Poniente,La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.14,Librería La Ibérica Sucursal Universidad Nacional,"Calle San Antonio Abad, N° 1824",San Salvador,San Salvador,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Librería La Página,"1a Calle Poniente, Local 15-b, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería La Popular,"Primera Avenida Sur, N° 2-4, frente a Panadería Tecleña, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería Las Nuevas Epocas,Avenida Morazán Norte,Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Librería Líder, Mejicanos","1a Avenida Norte N° 9, Mejicanos",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.30,Librería Marcela Centro Comercial La Joya,"Centro Comercial La Joya, Carretera al Puerto de La Libertad, locales 30 y 31",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Librería Maryori				","2a. Avenida Norte, Barrio El Centro, La Unión",La Union,La Union,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Librería Matías Delgado, 2a av sur","2a Avenida Sur, Local N° 202, Barrio El Calvario, San Miguel.",San Miguel,San Miguel,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,Librería Medalla Milagrosa,"2a Avenida Sur No 303, Barrio El Calvario, San Miguel",San Miguel,San Miguel,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería Monseñor Romero,"Avenida Quirino Chávez N°5 Barrio El Centro, Apopa",San Salvador,Apopa,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Libreria Nuevo Mundo Sucursal Zacamil,"C.C.Zacamil, local 3,",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Librería Pamela, Mejicanos",Avenida Castro Moran N° 18,San Salvador,Mejicanos,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.18,Librería Papelería y Equipos Informáticos Camelot,"Calle Ciriaco López, Local N° 10 Centro Comercial Cámelot, planta baja, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Libreria R y R,"2a Calle Poniente entre Avenida Independencia y 2a Avenida Norte #3, Lado norte",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Librería San Lucas,"Avenida Castro Morán N° 52, Contiguo a Colegio Jardín, Mejicanos",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,Librería Tecleña,2a Calle Poniente y 4a Avenida Sur Santa Tecla,La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Librería Terrazas, Centro Comercial Las Terrazas","Centro Comercial Las Terrazas, Local N° 10",San Salvador,San Salvador,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,Librería Tracitos,"Plaza Alcala Local 101 B, Avenida Bernal",San Salvador,San Salvador,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería Y Papelería Arcoiris ,Final 25 Calle Oriente entre Avenida Independencia y Tercera Avenida Sur numero 3,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,Librería y Papelería Autopista Sur,Centro Comercial Autopista Sur Local 50 San Salvador,San Salvador,San Salvador,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Librería y Papelería El Abaco, Metrópolis","Centro Comercial Metrópolis Local N° 5, Mejicanos",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Librería y Papelería El Abaco, San Luis","Boulevard Universitario, Avenida Izalco, Centro Comercial San Luis, local 4 b, San Salvador
+",San Salvador,San Salvador,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Librería y Papelería El Estudiante,"Avenida Morazán, frente a Despensa de Don Juan, local N° 2-6. Sonsonate",Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería y Papelería El Portal,"Centro Comercial Argoz N° 2, 2a. Calle Oriente, frente a Parque San Martin, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.10,Librería y Papelería Getsemani,"3a. Avenida Norte, Local B Barrio El centro, Sonsonate",Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.17,Librería y Papelería La Clásica,1a Avenida Norte y 6a Calle Poniente N° 3 Plaza Floresta San Miguel,San Miguel,San Miguel,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.14,Librería y papelería La Ibérica Sucursal Guadalupe,"Avenida Albert Einstein y Calle del Cantábrico, Jardines de Guadalupe",La Libertad,Antiguo Cuscatlan,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Librería y Papelería La Princesa				","1a. Calle Poniente Nº 3-2, Barrio San Carlos La Unión	
+",La Union,La Union,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería Y Papelería Latinoamérica Santa Ana,Centro Comercial Metrocentro Local Numero 267C,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.17,Librería y Papelería Pinel,Av. Morazán Bo. El Calvario No. 4,Morazan,San Francisco Gotera,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,"Librería y Papelería Universal, Antiguo Cuscatlán","Calle Cuscatlán Oriente N° 8, Antiguo Cuscatlaán. ",La Libertad,Antiguo Cuscatlan,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Librería y Papelería Universal, Santa Tecla","Segunda Calle Poniente N° 1-4, Santa Tecla",La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.12,Librería y Piñatería Micky Mouse,"Avenida 3 de Mayo y Calle Urrutia L-1, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Librería y Tienda Olguita			","Avenida General Larios y 2a Calle Poniente, Barrio El Calvario, Santa Rosa de Lima",La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.12,"Librería y Variedades Bethel		","Avenida Morazán, Barrio El Calvario. N° 20, San Francisco Gotera ",Morazan,San Francisco Gotera,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Librería y Variedades Javier,"Av. Jose Matías Delgado Sur entre 1a y 3a calle poniente #9-A, Santa Ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.18,Librería y Variedades Josselin Sarai,"3a Calle Poniente, Barrio El Centro, frente a Gobernación, La Unión",La Union,La Union,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Libreria y Variedades La Bendición,"17 Calle Poniente 15 C Quezaltepeque, Ciudad de Quezaltepeque. 1a calle Pte y Av. 3 de Mayo",La Libertad,Quezaltepeque,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Librería y Variedades La Guadalupana,"Av. Quirino Chavez, N°1-B, Apopa, S.S",San Salvador,Apopa,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería y Variedades La Heroica,"10a. Avenida sur entre 17 y 19 calle Poniente Barrio San Sebastián una cuadra antes de terminal de buses
+",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Libreria y Variedades Monte los Olivos,"av. Quirino Chavez casa n. 16, Apopa, San Salvador",San Salvador,Apopa,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,"Librería y Variedades Nineth				","Antigua Ruta Militar, Barrio La Esperanza, Santa Rosa de Lima",La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Librería y Variedades Regalito de Dios,"3a. Calle Poniente N° 8, Bo. El Calvario",La Libertad,Quezaltepeque,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Los Angeles Papelería y Librería			","2a Calle Poniente No 208, San Miguel",San Miguel,San Miguel,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.65,Maxi Despensa Sonsonate,"Quinta Sofía, calle hacia Acajutla, contiguo a Metrocentro Sonsonate",Sonsonate,Sonsonate,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.25,No incluir,4a Calle Oriente Barrio Las Animas N. 30,Santa Ana,Chalchuapa,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.17,"Office Express Delivery, 6a. Avenida sur",6a. Avenida sur y 11 Calle poniente N.2113,Santa Ana,Santa Ana,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.24,Papelera San Rey Sucursal Plaza Merliot,Centro Comercial Plaza Merliot Tercer Nivel,La Libertad,Santa Tecla,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,"Papelera y Librerías Latino América, Unicentro","Centro Comercial Unicentro Metrópolis, local 7, Mejicanos, San Salvador",San Salvador,Mejicanos,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Plásticos y Librería Linda Carolina,"Avenida Quirino Chavez numero once c, Apopa, San Salvador.",San Salvador,Apopa,10/1/2018
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.20,Utilesa Nº 1,"2a Calle Poniente No 205 2a y 3a Planta, San Miguel",San Miguel,San Miguel,10/1/2018
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,$0.35,Al Paso Librería ,"10a Avenida Sur N° 42 entre 11 Calle Poniente y Calle José Mariano Méndez, Santa Ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,$0.40,Color Line Librería,6a Avenida Norte local 17 N° 1-5 Sonsonate,Sonsonate,Sonsonate,10/1/2018
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,$0.35,Curiosidades y Libreria El Regalo,Barrio el recreo frente a Banco Agricola,La Union,Santa Rosa de Lima,10/1/2018
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,$0.50,Despensa de Don Juan El Palmar,"avenida fray felipe de jesús moraga sur, entre treinta y uno y treinta y tres calle poniente,santa ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,$0.50,Despensa Familiar   Santa Ana Catedral,"1a Avenida Norte y Calle Libertad Oriente, Barrio San Lorenzo, Santa Ana",Santa Ana,Santa Ana,10/1/2018
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,$0.20,Despensa Familiar Quezaltepeque Centro,"2a. Calle Poniente Norte , Quezaltepeque La Libertad.",La Libertad,Quezaltepeque,10/1/2018

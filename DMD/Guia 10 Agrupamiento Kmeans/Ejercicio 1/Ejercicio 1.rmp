@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="9.7.002">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="9.7.002" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="read_csv" compatibility="9.7.002" expanded="true" height="68" name="Read CSV" width="90" x="45" y="85">
+        <parameter key="csv_file" value="F:\DOCUMENTOS CUQUIS\UNIVERSIDAD\CICLO 04\Dataware Y Mineria de datos\Laboratorio-de-Datawarehouse\Guia 10 Agrupamiento Kmeans\recursos-guia-10\video.csv"/>
+        <parameter key="column_separators" value=","/>
+        <parameter key="trim_lines" value="true"/>
+        <parameter key="use_quotes" value="true"/>
+        <parameter key="quotes_character" value="&quot;"/>
+        <parameter key="escape_character" value="\"/>
+        <parameter key="skip_comments" value="true"/>
+        <parameter key="comment_characters" value="#"/>
+        <parameter key="starting_row" value="1"/>
+        <parameter key="parse_numbers" value="true"/>
+        <parameter key="decimal_character" value="."/>
+        <parameter key="grouped_digits" value="false"/>
+        <parameter key="grouping_character" value=","/>
+        <parameter key="infinity_representation" value=""/>
+        <parameter key="date_format" value=""/>
+        <parameter key="first_row_as_names" value="true"/>
+        <list key="annotations"/>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="encoding" value="windows-1252"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="CustID.true.integer.attribute"/>
+          <parameter key="1" value="Gender_M.true.integer.attribute"/>
+          <parameter key="2" value="Income.true.integer.attribute"/>
+          <parameter key="3" value="Age.true.integer.attribute"/>
+          <parameter key="4" value="Rentals.true.integer.attribute"/>
+          <parameter key="5" value="AvgPerVisit.true.real.attribute"/>
+          <parameter key="6" value="Incidentals_Yes.true.integer.attribute"/>
+          <parameter key="7" value="Genre_Comedy.true.integer.attribute"/>
+          <parameter key="8" value="Genre_Drama.true.integer.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="false"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="set_role" compatibility="9.7.002" expanded="true" height="82" name="Set Role" width="90" x="179" y="187">
+        <parameter key="attribute_name" value="CustID"/>
+        <parameter key="target_role" value="id"/>
+        <list key="set_additional_roles"/>
+      </operator>
+      <operator activated="true" class="normalize" compatibility="9.7.002" expanded="true" height="103" name="Normalize" width="90" x="313" y="34">
+        <parameter key="return_preprocessing_model" value="false"/>
+        <parameter key="create_view" value="false"/>
+        <parameter key="attribute_filter_type" value="subset"/>
+        <parameter key="attribute" value=""/>
+        <parameter key="attributes" value="Gender_M|Genre_Comedy|Genre_Drama|Incidentals_Yes"/>
+        <parameter key="use_except_expression" value="false"/>
+        <parameter key="value_type" value="numeric"/>
+        <parameter key="use_value_type_exception" value="false"/>
+        <parameter key="except_value_type" value="real"/>
+        <parameter key="block_type" value="value_series"/>
+        <parameter key="use_block_type_exception" value="false"/>
+        <parameter key="except_block_type" value="value_series_end"/>
+        <parameter key="invert_selection" value="true"/>
+        <parameter key="include_special_attributes" value="false"/>
+        <parameter key="method" value="Z-transformation"/>
+        <parameter key="min" value="0.0"/>
+        <parameter key="max" value="1.0"/>
+        <parameter key="allow_negative_values" value="false"/>
+      </operator>
+      <operator activated="true" class="k_medoids" compatibility="9.7.002" expanded="true" height="82" name="Clustering" width="90" x="514" y="187">
+        <parameter key="add_cluster_attribute" value="true"/>
+        <parameter key="add_as_label" value="false"/>
+        <parameter key="remove_unlabeled" value="false"/>
+        <parameter key="k" value="3"/>
+        <parameter key="max_runs" value="10"/>
+        <parameter key="max_optimization_steps" value="100"/>
+        <parameter key="use_local_random_seed" value="false"/>
+        <parameter key="local_random_seed" value="1992"/>
+        <parameter key="measure_types" value="MixedMeasures"/>
+        <parameter key="mixed_measure" value="MixedEuclideanDistance"/>
+        <parameter key="nominal_measure" value="NominalDistance"/>
+        <parameter key="numerical_measure" value="EuclideanDistance"/>
+        <parameter key="divergence" value="GeneralizedIDivergence"/>
+        <parameter key="kernel_type" value="radial"/>
+        <parameter key="kernel_gamma" value="1.0"/>
+        <parameter key="kernel_sigma1" value="1.0"/>
+        <parameter key="kernel_sigma2" value="0.0"/>
+        <parameter key="kernel_sigma3" value="2.0"/>
+        <parameter key="kernel_degree" value="3.0"/>
+        <parameter key="kernel_shift" value="1.0"/>
+        <parameter key="kernel_a" value="1.0"/>
+        <parameter key="kernel_b" value="0.0"/>
+      </operator>
+      <operator activated="true" class="cluster_distance_performance" compatibility="9.7.002" expanded="true" height="103" name="Performance" width="90" x="715" y="187">
+        <parameter key="main_criterion" value="Avg. within centroid distance"/>
+        <parameter key="main_criterion_only" value="false"/>
+        <parameter key="normalize" value="false"/>
+        <parameter key="maximize" value="false"/>
+      </operator>
+      <connect from_op="Read CSV" from_port="output" to_op="Set Role" to_port="example set input"/>
+      <connect from_op="Set Role" from_port="example set output" to_op="Normalize" to_port="example set input"/>
+      <connect from_op="Normalize" from_port="example set output" to_op="Clustering" to_port="example set"/>
+      <connect from_op="Clustering" from_port="cluster model" to_op="Performance" to_port="cluster model"/>
+      <connect from_op="Clustering" from_port="clustered set" to_op="Performance" to_port="example set"/>
+      <connect from_op="Performance" from_port="performance" to_port="result 1"/>
+      <connect from_op="Performance" from_port="example set" to_port="result 3"/>
+      <connect from_op="Performance" from_port="cluster model" to_port="result 2"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
+      <portSpacing port="sink_result 4" spacing="0"/>
+    </process>
+  </operator>
+</process>

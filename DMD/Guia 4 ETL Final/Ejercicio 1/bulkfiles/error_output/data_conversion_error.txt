@@ -1,0 +1,378 @@
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,Zona Centro, calle Ruben Dario, Hula Hula,Zona Centro, calle Ruben Dario, Hula Hula,San Salvador,San Salvador,5/1/2018,sinprecio,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador,San Salvador,San Salvador,5/1/2018,-,-1071607681,56
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018,*,-1071607681,56

@@ -1,0 +1,201 @@
+Categoria,Producto,Marca,Cantidad,Unidad,Precio,Establecimiento,Direccion,De partamento,Municipio,Fecha Sondeo
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Curiosidades y Libreria El Regalo,Barrio el recreo frente a Banco Agricola,La Union,Santa Rosa de Lima,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,"Destiny Blessing, Avenida Jose Matías Delgado","Avenida Jose Matias Delgado, entra 9a. Y 11a. Calle Poniente, Numero 38-B",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,"Distribuidora Papelera Galvez, 4a Avenida Norte",4a Avenida Norte entre Calle Libertad Poniente y 2a Calle Poniente # 1,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Farmacia San Rafael y Librería Marcela,Col. Santa Teresa y Av. Bernal No. 76 San Salvador ,San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Farmacia San Rafael y Libreria Marcela sucursal K # 11,"Centro Comercial Santa Elena Local #110 Urbanizacion Santa Elena, Antiguo Cuscatlan, La Libertad.",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Farmacia San Rafael y Libreria Marcela Sucursal S # 19,"9a. Calle Oriente, Block 7 - 8 Casa # 11, Col. Santa Monica, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Farmacia y Librería Brasil Nº 12,"Carretera Panamericana, Centro Comercial Metrocentro, Local 82",San Miguel,San Miguel,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Farmacia y Librería Brasil Nº 16,"Centro Comercial Metrocentro San Miguel, local 162",San Miguel,San Miguel,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,"Farmacia y Librería San Rey N° 12				","1a Calle Poniente y Av. Fernando Benítez, Santa Rosa de Lima",La Union,Santa Rosa de Lima,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Farmacia y Librería San Rey N° 31,1a calle oriente y 10 avenida sur local #54,Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Farmacia y Librería San Rey N° 7,Carretera Panamericana N° 2 Colonia 14 de julio frente a Metrocentro,San Miguel,San Miguel,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.25,"Librería Abraham Lincoln				","1a Calle Oriente, No 16, Usulután",Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería América,"8a Avenida Sur y 9a Calle Poniente N° 56, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.25,"Librería Cervantes, Orden de Malta","Boulevard Orden de Malta Sur Plaza Monte Cristo, Local 12",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería El Estudiante,2a Calle Poniente 2-1 Santa Tecla,La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Librería Faber,Calle Obispo Marroquín y 6a avenida sur,Sonsonate,Sonsonate,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.45,"Libreria Gamaliel, Calle Libertad Poniente","Calle Libertad Poniente, Local #2, frente al Parque Menendez. Santa Ana.",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.45,"Librería Géminis, Mejicanos","Av. Castro Morán N° 42-A, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.45,Librería Jacky,"1a.Calle Poniente N° 15, Mejicanos, San Salvador",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,"Libreria Karlita Santa Ana, 16 av Sur",Dieciseis Avenida Sur entre quince y Diecisiete calle poniente Numero 30,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,"Librería Karlita, Santa Ana","10a Avenida Sur entre 27 y 29 Calle Poniente, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,"Libreria Karlita, Santa Ana 2a av sur","2a. Av. Sur entre 23 y 25 Calle Poniente, Santa Ana.",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería La Bendición,"Av. Delgado, Barrio El Centro N° 19, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Librería La Económica,2da Calle Poniente,La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.37,Librería La Ibérica Sucursal Universidad Nacional,"Calle San Antonio Abad, N° 1824",San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería La Página,"1a Calle Poniente, Local 15-b, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.30,Librería La Popular,"Primera Avenida Sur, N° 2-4, frente a Panadería Tecleña, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.30,Librería Las Nuevas Epocas,Avenida Morazán Norte,Sonsonate,Sonsonate,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería Linda Carolina,"Avenida Quirino Chávez, N° 11 C, Apopa",San Salvador,Apopa,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Librería Marcela Centro Comercial La Joya,"Centro Comercial La Joya, Carretera al Puerto de La Libertad, locales 30 y 31",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.45,Librería Marcela Mejicanos,"29 Av. Sur y Centro Comercial Zacamil 2, Local N° 23",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,"Librería Maryori				","2a. Avenida Norte, Barrio El Centro, La Unión",La Union,La Union,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería Monseñor Romero,"Avenida Quirino Chávez N°5 Barrio El Centro, Apopa",San Salvador,Apopa,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,"Librería Nuevo Mundo, Centro Comercial Zacamil","Centro Comercial Zacamil, Local N° 2, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Librería Papelería y Equipos Informáticos Camelot,"Calle Ciriaco López, Local N° 10 Centro Comercial Cámelot, planta baja, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Libreria R y R,"2a Calle Poniente entre Avenida Independencia y 2a Avenida Norte #3, Lado norte",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería Tecleña,2a Calle Poniente y 4a Avenida Sur Santa Tecla,La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,"Librería Terrazas, Centro Comercial Las Terrazas","Centro Comercial Las Terrazas, Local N° 10",San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.45,Librería Tracitos,"Plaza Alcala Local 101 B, Avenida Bernal",San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Librería Y Papelería Arco Iris ,Final 25 Calle Oriente entre Avenida Independencia y Tercera Avenida Sur numero 3,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.60,Librería y Papelería Autopista Sur,Centro Comercial Autopista Sur Local 50 San Salvador,San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Libreria y Papeleria El Abaco San Luis,"C.C.San Luis, local 4B, Av.Izalco",San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,"Librería y Papelería El Abaco, Metrópolis","Centro Comercial Metrópolis Local N° 5, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.30,Libreria y Papeleria El Angel,1a avenida norte y Calle Joaquin Rodezno # 1 barrio El Centro,Morazan,San Francisco Gotera,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería y Papelería El Portal,"Centro Comercial Argoz N° 2, 2a. Calle Oriente, frente a Parque San Martin, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.25,Librería y Papelería Getsemani,"3a. Avenida Norte, Local B Barrio El centro, Sonsonate",Sonsonate,Sonsonate,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.37,Libreria y Papelería La Ibérica Sucursal 29 Calle Oriente Numero 410,29 Calle Oriente Numero 410,San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.37,Librería y papelería La Ibérica Sucursal Guadalupe,"Avenida Albert Einstein y Calle del Cantábrico, Jardines de Guadalupe",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,"Librería y Papelería La Princesa				","1a. Calle Poniente Nº 3-2, Barrio San Carlos La Unión	
+",La Union,La Union,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Librería Y Papelería Latino América Santa Ana,Centro Comercial Metrocentro Local Numero 267C,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.33,Librería y Papelería Pinel,Av. Morazán Bo. El Calvario No. 4,Morazan,San Francisco Gotera,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Librería y Papelería San José,"Avenida Delgado N° 17, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería y Papelería San Mateo,3a Calle Poniente Barrio El Centro N° 1-2,La Union,La Union,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.30,"Librería y Papelería Universal, Santa Tecla","Segunda Calle Poniente N° 1-4, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.45,Librería y Piñatería Micky Mouse,"Avenida 3 de Mayo y Calle Urrutia L-1, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,"Librería y Tienda Olguita			","Avenida General Larios y 2a Calle Poniente, Barrio El Calvario, Santa Rosa de Lima",La Union,Santa Rosa de Lima,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,"Librería y Variedades Bethel		","Avenida Morazán, Barrio El Calvario. N° 20, San Francisco Gotera ",Morazan,San Francisco Gotera,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.36,Librería y Variedades Iris,"1a. Calle Oriente, N° 38 C Barrio El Calvario",Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Librería y Variedades Javier,"Av. Jose Matías Delgado Sur entre 1a y 3a calle poniente #9-A, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.45,Librería y Variedades Josselin Sarai,"3a Calle Poniente, Barrio El Centro, frente a Gobernación, La Unión",La Union,La Union,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Librería y Variedades La Heróica,"10 a. Av. Sur entre 17 y 19 calle poniente, Barrio San Sebastián Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.25,Librería y Variedades Montenegro,"1a Calle Oriente N° 10B  y 2a Avenida Sur, costado sur de ex Cine Centenario",Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,"Librería y Variedades Nineth				","Antigua Ruta Militar, Barrio La Esperanza, Santa Rosa de Lima",La Union,Santa Rosa de Lima,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,Librería y Variedades Regalito de Dios,"3a. Calle Poniente N° 8, Bo. El Calvario",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.55,"Librería, Fotocopias y Variedades ""Ebenezer"", Santa Rosa de Lima","1a Avenida sur barrio el centro contiguo a banco america central, Santa Rosa de Lima, La Union.",La Union,Santa Rosa de Lima,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.35,"Papelera y Librerías Latino América, Unicentro","Centro Comercial Unicentro Metrópolis, local 7, Mejicanos, San Salvador",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.65,Papelería y Útiles de Oficina María Auxiliadora,"4a Avenida Sur entre 13 y 15 Calle Poniente, # 2",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Walmart Constitución,"entre prolongacion blvd constitucion, residencial la gloria, san salvador",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.50,Walmart San Miguel ,"Carretera al Delirio Avenida la Pista Boulevard Campos Eliseo
+",San Miguel,San Miguel,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,Al Paso Librería ,"10a Avenida Sur N° 42 entre 11 Calle Poniente y Calle José Mariano Méndez, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.15,Color Line Librería,6a Avenida Norte local 17 N° 1-5 Sonsonate,Sonsonate,Sonsonate,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,"Destiny Blessing, Avenida Jose Matías Delgado","Avenida Jose Matias Delgado, entra 9a. Y 11a. Calle Poniente, Numero 38-B",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,Farmacia San Rafael y Libreria Marcela sucursal K # 11,"Centro Comercial Santa Elena Local #110 Urbanizacion Santa Elena, Antiguo Cuscatlan, La Libertad.",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.60,Farmacia San Rafael y Libreria Marcela Sucursal S # 19,"9a. Calle Oriente, Block 7 - 8 Casa # 11, Col. Santa Monica, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.22,Farmacia y Librería San Rey N° 31,1a calle oriente y 10 avenida sur local #54,Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,"Foto Studio y Librería Nelson				","1a Calle Oriente No 2-2, Barrio El Centro, La Unión",La Union,La Union,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.12,"Librería Abraham Lincoln				","1a Calle Oriente, No 16, Usulután",Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Librería América,"8a Avenida Sur y 9a Calle Poniente N° 56, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Librería Faber,Calle Obispo Marroquín y 6a avenida sur,Sonsonate,Sonsonate,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,"Libreria Gamaliel, Calle Libertad Poniente","Calle Libertad Poniente, Local #2, frente al Parque Menendez. Santa Ana.",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,"Librería Géminis, Mejicanos","Av. Castro Morán N° 42-A, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,Librería Jacky,"1a.Calle Poniente N° 15, Mejicanos, San Salvador",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,"Libreria Karlita Santa Ana, 16 av Sur",Dieciseis Avenida Sur entre quince y Diecisiete calle poniente Numero 30,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,"Librería Karlita, Santa Ana","10a Avenida Sur entre 27 y 29 Calle Poniente, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,"Libreria Karlita, Santa Ana 2a av sur","2a. Av. Sur entre 23 y 25 Calle Poniente, Santa Ana.",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Librería La Económica,2da Calle Poniente,La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.18,Librería La Ibérica Sucursal Universidad Nacional,"Calle San Antonio Abad, N° 1824",San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.17,Librería La Página,"1a Calle Poniente, Local 15-b, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,"Librería La Única, Mejicanos","1a Calle poniente, local 7-B",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Librería Las Nuevas Epocas,Avenida Morazán Norte,Sonsonate,Sonsonate,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,"Librería Líder, Mejicanos","1a Avenida Norte N° 9, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.22,Librería Marcela Mejicanos,"29 Av. Sur y Centro Comercial Zacamil 2, Local N° 23",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.15,"Librería Nuevo Mundo, Centro Comercial Zacamil","Centro Comercial Zacamil, Local N° 2, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.15,"Librería Pamela, Mejicanos",Avenida Castro Moran N° 18,San Salvador,Mejicanos,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.18,Librería Papelería y Equipos Informáticos Camelot,"Calle Ciriaco López, Local N° 10 Centro Comercial Cámelot, planta baja, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Libreria R y R,"2a Calle Poniente entre Avenida Independencia y 2a Avenida Norte #3, Lado norte",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,Librería Tecleña,2a Calle Poniente y 4a Avenida Sur Santa Tecla,La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,"Librería Terrazas, Centro Comercial Las Terrazas","Centro Comercial Las Terrazas, Local N° 10",San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,Librería Tracitos,"Plaza Alcala Local 101 B, Avenida Bernal",San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Librería Y Papelería Arco Iris ,Final 25 Calle Oriente entre Avenida Independencia y Tercera Avenida Sur numero 3,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,Librería y Papelería Autopista Sur,Centro Comercial Autopista Sur Local 50 San Salvador,San Salvador,San Salvador,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.15,Libreria y Papeleria El Angel,1a avenida norte y Calle Joaquin Rodezno # 1 barrio El Centro,Morazan,San Francisco Gotera,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.15,Librería y Papelería Getsemani,"3a. Avenida Norte, Local B Barrio El centro, Sonsonate",Sonsonate,Sonsonate,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.18,Librería y papelería La Ibérica Sucursal Guadalupe,"Avenida Albert Einstein y Calle del Cantábrico, Jardines de Guadalupe",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,Librería Y Papelería Latino América Santa Ana,Centro Comercial Metrocentro Local Numero 267C,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.25,Librería y Papelería San Mateo,3a Calle Poniente Barrio El Centro N° 1-2,La Union,La Union,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.18,"Librería y Papelería Universal, Santa Tecla","Segunda Calle Poniente N° 1-4, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.17,Librería y Variedades Iris,"1a. Calle Oriente, N° 38 C Barrio El Calvario",Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Librería y Variedades Javier,"Av. Jose Matías Delgado Sur entre 1a y 3a calle poniente #9-A, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Librería y Variedades Josselin Sarai,"3a Calle Poniente, Barrio El Centro, frente a Gobernación, La Unión",La Union,La Union,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.15,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Librería y Variedades La Heróica,"10 a. Av. Sur entre 17 y 19 calle poniente, Barrio San Sebastián Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.12,Librería y Variedades Montenegro,"1a Calle Oriente N° 10B  y 2a Avenida Sur, costado sur de ex Cine Centenario",Usulutan,Usulutan,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Librería y Variedades Regalito de Dios,"3a. Calle Poniente N° 8, Bo. El Calvario",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.14,"Office Express Delivery, 6a. Avenida sur",6a. Avenida sur y 11 Calle poniente N.2113,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.20,Papelería y Útiles de Oficina María Auxiliadora,"4a Avenida Sur entre 13 y 15 Calle Poniente, # 2",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.21,Selectos Market San francisco Gotera ,"entre 1 Calle Oriente y Avenida Thompson Norte, Barrio el Calvario, San Francisco Gotera",Morazan,San Francisco Gotera,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.21,Súper Selectos Apopa II,"Kilometro 12 1/2, Carretera Troncal del Norte, Apopa, San Salvador",San Salvador,Apopa,6/1/2018
+Misceláneos,Pliego de papel lustre 50x70 cm,Sin Marca,1,Unidades,$0.21,Super Selectos San Sebastian Salitrillo,Canton Los Amates San Sebastian silitrillo Santa ana,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.50,Al Paso Librería ,"10a Avenida Sur N° 42 entre 11 Calle Poniente y Calle José Mariano Méndez, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.75,Color Line Librería,6a Avenida Norte local 17 N° 1-5 Sonsonate,Sonsonate,Sonsonate,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.50,Curiosidades y Libreria El Regalo,Barrio el recreo frente a Banco Agricola,La Union,Santa Rosa de Lima,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$0.75,Despensa de Don Juan Usulutan,"Final calle Grimaldi, salida a San Miguel, Usulutan.",Usulutan,Usulutan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$0.75,Despensa Familiar Chalchuapa,CALLE SANTA ANA NUMERO CINCO CHALCHUAPA SANTA ANA,Santa Ana,Chalchuapa,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$0.75,Despensa Familiar Pericentro Apopa,"Carretera Troncal del Nte. Km. 11-1/2, carretera a Quezaltepeque, #7, Apopa.",San Salvador,Apopa,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$0.75,Despensa Familiar Quezaltepeque Plaza,9 Calle Poniente y 1 Av. Sur numero 42,La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,"Destiny Blessing, Avenida Jose Matías Delgado","Avenida Jose Matias Delgado, entra 9a. Y 11a. Calle Poniente, Numero 38-B",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,"Distribuidora Papelera Galvez, 4a Avenida Norte",4a Avenida Norte entre Calle Libertad Poniente y 2a Calle Poniente # 1,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.15,Farmacia San Rafael y Librería Marcela,Col. Santa Teresa y Av. Bernal No. 76 San Salvador ,San Salvador,San Salvador,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.15,Farmacia San Rafael y Libreria Marcela sucursal K # 11,"Centro Comercial Santa Elena Local #110 Urbanizacion Santa Elena, Antiguo Cuscatlan, La Libertad.",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.15,Farmacia San Rafael y Libreria Marcela Sucursal S # 19,"9a. Calle Oriente, Block 7 - 8 Casa # 11, Col. Santa Monica, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.35,Farmacia San Rafael y Librería Marcela Sucusal N° 14,"Calle Cortez Blanco Poniente No 1 Centro Comercial Madre Selva, Antiguo Cuscatlán",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.60,Farmacia y Librería Brasil Nº 12,"Carretera Panamericana, Centro Comercial Metrocentro, Local 82",San Miguel,San Miguel,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,Farmacia y Librería Brasil Nº 16,"Centro Comercial Metrocentro San Miguel, local 162",San Miguel,San Miguel,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.44,"Farmacia y Librería San Rey N° 12				","1a Calle Poniente y Av. Fernando Benítez, Santa Rosa de Lima",La Union,Santa Rosa de Lima,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.44,Farmacia y Librería San Rey N° 25,"Avenida Morazán No 24 B, Barrio el Calvario, San Francisco Gotera, Morazán",Morazan,San Francisco Gotera,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.80,Farmacia y Librería San Rey N° 31,1a calle oriente y 10 avenida sur local #54,Usulutan,Usulutan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.80,Farmacia y Librería San Rey N° 7,Carretera Panamericana N° 2 Colonia 14 de julio frente a Metrocentro,San Miguel,San Miguel,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,"Foto Studio y Librería Nelson				","1a Calle Oriente No 2-2, Barrio El Centro, La Unión",La Union,La Union,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.00,"Librería Abraham Lincoln				","1a Calle Oriente, No 16, Usulután",Usulutan,Usulutan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.00,Librería América,"8a Avenida Sur y 9a Calle Poniente N° 56, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.00,"Librería Cervantes, Orden de Malta","Boulevard Orden de Malta Sur Plaza Monte Cristo, Local 12",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.95,Libreria Dolarcito,"Calle Obispo Marroquin y sexta calle, Barrio El Angel",Sonsonate,Sonsonate,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.75,Librería El Estudiante,2a Calle Poniente 2-1 Santa Tecla,La Libertad,Santa Tecla,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.75,Librería Faber,Calle Obispo Marroquín y 6a avenida sur,Sonsonate,Sonsonate,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,"Libreria Gamaliel, Calle Libertad Poniente","Calle Libertad Poniente, Local #2, frente al Parque Menendez. Santa Ana.",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.00,"Librería Géminis, Mejicanos","Av. Castro Morán N° 42-A, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.00,Librería Jacky,"1a.Calle Poniente N° 15, Mejicanos, San Salvador",San Salvador,Mejicanos,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,"Libreria Karlita Santa Ana, 16 av Sur",Dieciseis Avenida Sur entre quince y Diecisiete calle poniente Numero 30,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,"Librería Karlita, Santa Ana","10a Avenida Sur entre 27 y 29 Calle Poniente, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,"Libreria Karlita, Santa Ana 2a av sur","2a. Av. Sur entre 23 y 25 Calle Poniente, Santa Ana.",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.75,Librería La Bendición,"Av. Delgado, Barrio El Centro N° 19, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$0.75,Librería La Económica,2da Calle Poniente,La Libertad,Santa Tecla,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.35,Librería La Ibérica Sucursal Universidad Nacional,"Calle San Antonio Abad, N° 1824",San Salvador,San Salvador,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,Librería La Página,"1a Calle Poniente, Local 15-b, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.25,Librería La Popular,"Primera Avenida Sur, N° 2-4, frente a Panadería Tecleña, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.00,"Librería La Única, Mejicanos","1a Calle poniente, local 7-B",San Salvador,Mejicanos,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.95,Librería Las Nuevas Epocas,Avenida Morazán Norte,Sonsonate,Sonsonate,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.25,"Librería Líder, Mejicanos","1a Avenida Norte N° 9, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.75,Librería Linda Carolina,"Avenida Quirino Chávez, N° 11 C, Apopa",San Salvador,Apopa,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.25,Librería Marcela Centro Comercial La Joya,"Centro Comercial La Joya, Carretera al Puerto de La Libertad, locales 30 y 31",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.39,Librería Marcela Mejicanos,"29 Av. Sur y Centro Comercial Zacamil 2, Local N° 23",San Salvador,Mejicanos,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.75,"Librería Maryori				","2a. Avenida Norte, Barrio El Centro, La Unión",La Union,La Union,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,Librería Monseñor Romero,"Avenida Quirino Chávez N°5 Barrio El Centro, Apopa",San Salvador,Apopa,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.70,"Librería Nuevo Mundo, Centro Comercial Zacamil","Centro Comercial Zacamil, Local N° 2, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.80,Librería Papelería y Equipos Informáticos Camelot,"Calle Ciriaco López, Local N° 10 Centro Comercial Cámelot, planta baja, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$3.00,Libreria R y R,"2a Calle Poniente entre Avenida Independencia y 2a Avenida Norte #3, Lado norte",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.75,Librería Tecleña,2a Calle Poniente y 4a Avenida Sur Santa Tecla,La Libertad,Santa Tecla,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.45,"Librería Terrazas, Centro Comercial Las Terrazas","Centro Comercial Las Terrazas, Local N° 10",San Salvador,San Salvador,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.35,Librería Tracitos,"Plaza Alcala Local 101 B, Avenida Bernal",San Salvador,San Salvador,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,Librería y Miscelanea El Estudiante,Avenida Morazan No. 2-6 Barrio El Centro por la Despensa de Don Juan ,Sonsonate,Sonsonate,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.75,Librería y Papelería Autopista Sur,Centro Comercial Autopista Sur Local 50 San Salvador,San Salvador,San Salvador,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.00,Libreria y Papeleria El Abaco San Luis,"C.C.San Luis, local 4B, Av.Izalco",San Salvador,San Salvador,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.00,"Librería y Papelería El Abaco, Metrópolis","Centro Comercial Metrópolis Local N° 5, Mejicanos",San Salvador,Mejicanos,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.30,Libreria y Papeleria El Angel,1a avenida norte y Calle Joaquin Rodezno # 1 barrio El Centro,Morazan,San Francisco Gotera,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,Librería y Papelería El Portal,"Centro Comercial Argoz N° 2, 2a. Calle Oriente, frente a Parque San Martin, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.00,Librería y Papelería Getsemani,"3a. Avenida Norte, Local B Barrio El centro, Sonsonate",Sonsonate,Sonsonate,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.60,Libreria y Papelería La Ibérica Sucursal 29 Calle Oriente Numero 410,29 Calle Oriente Numero 410,San Salvador,San Salvador,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.60,Librería y papelería La Ibérica Sucursal Guadalupe,"Avenida Albert Einstein y Calle del Cantábrico, Jardines de Guadalupe",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.75,"Librería y Papelería La Princesa				","1a. Calle Poniente Nº 3-2, Barrio San Carlos La Unión	
+",La Union,La Union,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.69,Librería Y Papelería Latino América Santa Ana,Centro Comercial Metrocentro Local Numero 267C,Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.43,Librería y Papelería Pinel,Av. Morazán Bo. El Calvario No. 4,Morazan,San Francisco Gotera,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,Librería y Papelería San José,"Avenida Delgado N° 17, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.00,Librería y Papelería San Mateo,3a Calle Poniente Barrio El Centro N° 1-2,La Union,La Union,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,"Librería y Papelería Universal, Antiguo Cuscatlán","Calle Cuscatlán Oriente N° 8, Antiguo Cuscatlaán. ",La Libertad,Antiguo Cuscatlan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.00,"Librería y Papelería Universal, Santa Tecla","Segunda Calle Poniente N° 1-4, Santa Tecla",La Libertad,Santa Tecla,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,Librería y Piñatería Micky Mouse,"Avenida 3 de Mayo y Calle Urrutia L-1, Quezaltepeque, La Libertad",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.10,"Librería y Variedades Bethel		","Avenida Morazán, Barrio El Calvario. N° 20, San Francisco Gotera ",Morazan,San Francisco Gotera,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.85,Librería y Variedades Javier,"Av. Jose Matías Delgado Sur entre 1a y 3a calle poniente #9-A, Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.25,Librería y Variedades Josselin Sarai,"3a Calle Poniente, Barrio El Centro, frente a Gobernación, La Unión",La Union,La Union,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.25,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.25,Librería y Variedades La Heróica,"10 a. Av. Sur entre 17 y 19 calle poniente, Barrio San Sebastián Santa Ana",Santa Ana,Santa Ana,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$0.90,Librería y Variedades Montenegro,"1a Calle Oriente N° 10B  y 2a Avenida Sur, costado sur de ex Cine Centenario",Usulutan,Usulutan,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.60,Librería y Variedades Regalito de Dios,"3a. Calle Poniente N° 8, Bo. El Calvario",La Libertad,Quezaltepeque,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.25,"Librería, Fotocopias y Variedades ""Ebenezer"", Santa Rosa de Lima","1a Avenida sur barrio el centro contiguo a banco america central, Santa Rosa de Lima, La Union.",La Union,Santa Rosa de Lima,6/1/2018
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$2.50,Maxi Despensa Sonsonate,"Quinta Sofía, calle hacia Acajutla, contiguo a Metrocentro Sonsonate",Sonsonate,Sonsonate,6/1/2018

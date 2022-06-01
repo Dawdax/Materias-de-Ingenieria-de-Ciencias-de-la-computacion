@@ -1,0 +1,201 @@
+Categoria,Producto,Marca,Cantidad,Unidad,Precio,Establecimiento,Direccion,De partamento,Municipio,Fecha Sondeo
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.25,Librería y Papelería Diversa,"4a. Avenida Norte N° 220 Local 2, Edificio Hernández",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.50,"Librería y Papelería El Abaco, Unicentro","Centro Comercial Unicentro, Soyapango",San Salvador,Soyapango,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.50,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.50,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.00,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.30,"Librería y Papelería Getsemani, Santa Ana","5a Calle Poniente y 8a Avenida Sur, No 24 Barrio San Sebastián, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.50,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.40,"Librería y Papelería Rossy, 6a calle poniente, Barrio San Juan, Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.40,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.80,Librería y Papelería Salvadoreña,Cuarta Avenida Norte Local C N° 225 San Salvador,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.30,Librería y Papelería San Rey Centro,"4a. Avenida Norte, N° 210 Edificio Pompeya, Zona de librerías",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.50,Libreria y Papeleria Shadai,"4ta. Avenida Norte, No. 110",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.50,"Librería y Papelería Susana			","3a Avenida Norte N° 22, Chalchuapa",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.50,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.30,Librería y Variedades Montenegro,"1a Calle Oriente N° 10B  y 2a Avenida Sur, costado sur de ex Cine Centenario",Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$2.00,Mega Libros,2a calle poniente # 205,San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$0.94,Mercado de San Miguel,,San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.50,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.00,Negocios de Oriente,"11a. Avenida Norte No 308, Barrio San Felipe, San Miguel",San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.30,"Papelería San Rey, 7a av norte",7a. Avenida Norte y 3a. Calle Poniente N° 500,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.98,Súper Selectos la Sultana,Urbanizacion y Boulevard La Sultana pasaje La Sultana Antiguo Cuscatlan L.L.,La Libertad,Antiguo Cuscatlan,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.98,Súper Selectos Plaza Mundo,kilometro 4 1/2 boulevard del EJercito Ctro. Plaza Mundo local ancla -A,San Salvador,Soyapango,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.45,Variedades Papel y Kosas,"8a Avenida Sur y 3a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.60,Walmart Escalon,Colonia Escalon Entre calle Nueva N 1 Y calle Nueva 2 San Salvador.,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel de color tamaño oficio (paquete de 100),Sin Marca,1,Unidades,$2.15,Librería Aranda,1a Calle Oriente N° 127,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel de color tamaño oficio (paquete de 100),Sin Marca,1,Unidades,$5.40,"Librería Española, Unicentro",Centro Comercial Unicentro Local 12 Soyapango,San Salvador,Soyapango,9/1/2018
+Misceláneos,Hojas de papel de color tamaño oficio (paquete de 100),Sin Marca,1,Unidades,$1.20,"Librería Karlita, Ahuachapán",4a Calle Poniente No. 1-7 Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel de color tamaño oficio (paquete de 50),Sin Marca,1,Unidades,$3.00,"Librería Española, Unicentro",Centro Comercial Unicentro Local 12 Soyapango,San Salvador,Soyapango,9/1/2018
+Misceláneos,Hojas de papel de color tamaño oficio (paquete de 50),Sin Marca,1,Unidades,$0.60,"Librería Karlita, Ahuachapán",4a Calle Poniente No. 1-7 Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.00,Almacen Claudycar,7a. Avenida Sur #325,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$4.50,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Distribuidora Papelera DM,"2a. Calle Poniente y 9a. Avenida Norte Nº 601, Barrio San Felipe, San Miguel",San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.50,Dollarcity Sucursal San Miguel,4a calle poniente #212,San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.25,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Farmacia Brasil # 45,"Km 112 carretera Litoral, salida a San Miguel",Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$4.25,Farmacia y Librería San Rey N° 31,1a calle oriente y 10 avenida sur local #54,Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$4.25,Farmacia y Librería San Rey N° 7,Carretera Panamericana N° 2 Colonia 14 de julio frente a Metrocentro,San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.50,Libreria  y Papeleria Rossy,6a Calle Poniente Barrio El Calvario numero uno guin seis,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.50,"Librería Abraham Lincoln				","1a Calle Oriente, No 16, Usulután",Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.00,Librería Bendición de Dios,"Calle Gerardo Barrios, local L-5, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$4.00,Librería Escolar 4a Avenida Norte,4a Avenida Norte N° 237,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Librería Francia,"Calle Delgado y 1a Calle Ote. 4a Av. Norte, N° 119 Bis",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.50,Libreria Iris,1a.calle oriente No. 38c Barrio el Calvario,Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.50,Libreria Karlita,"2a Calle Oriente No 11, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,"Librería Karlita, Ahuachapán",4a Calle Poniente No. 1-7 Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$4.50,Librería La Nueva Centroamericana,6a Avenida Norte No 119,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Librería Rolly,8a Av. Sur y 7a Calle Poniente N° 36 Santa Ana,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Librería San Judas,"décima calle poniente, Barrio El Calvario",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.75,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.50,Librería y Bazar La Costura,"2a Calle Oriente # 4, Edificio Rosenciaft Center, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.00,Librería y Más Yesi,"6a. Avenida Sur y 7a. Calle Poniente, Plaza Alcazar, Frente a Bodegón Sandoval",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$4.50,Librería y Papelería ABC,"3a. Calle Oriente y 4a. Avenida Norte local N° 241 Edificio Kury Planta Baja,San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.75,Librería y Papelería Diversa,"4a. Avenida Norte N° 220 Local 2, Edificio Hernández",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$6.50,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$6.50,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.50,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.50,"Librería y Papelería Getsemani, Santa Ana","5a Calle Poniente y 8a Avenida Sur, No 24 Barrio San Sebastián, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.25,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Librería y Papelería Rossy Santa Ana,"Entre 4a avenida Sur y 7a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,"Librería y Papelería Rossy, 6a calle poniente, Barrio San Juan, Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.50,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Librería y Papelería Salvadoreña,Cuarta Avenida Norte Local C N° 225 San Salvador,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$4.25,Librería y Papelería San Rey Centro,"4a. Avenida Norte, N° 210 Edificio Pompeya, Zona de librerías",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.50,Librería y Variedades Montenegro,"1a Calle Oriente N° 10B  y 2a Avenida Sur, costado sur de ex Cine Centenario",Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.25,Mega Libros,2a calle poniente # 205,San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$2.92,Mercado de San Miguel,,San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$5.00,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$4.25,"Papelería San Rey, 7a av norte",7a. Avenida Norte y 3a. Calle Poniente N° 500,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.75,Variedades Papel y Kosas,"8a Avenida Sur y 3a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$6.00,Almacen Claudycar,7a. Avenida Sur #325,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$9.00,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,Distribuidora Papelera DM,"2a. Calle Poniente y 9a. Avenida Norte Nº 601, Barrio San Felipe, San Miguel",San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$2.25,Distribuidora Papelera Galvez,"5a Calle Poniente Número 26, entre 6a y  8a Avenida Sur, adelante de Plaza Sevilla, Santa Ana ",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.00,Dollarcity Sucursal San Miguel,4a calle poniente #212,San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$6.00,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.00,Libreria  y Papeleria Rossy,6a Calle Poniente Barrio El Calvario numero uno guin seis,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.00,"Librería Abraham Lincoln				","1a Calle Oriente, No 16, Usulután",Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$6.00,Librería Bendición de Dios,"Calle Gerardo Barrios, local L-5, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,Librería El Angel Ahuachapán,"Avenida Francisco Menéndez Norte,Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$6.25,Librería El Castillo Musical Sucursal 1,"4ta. Av.Nte.local No.115, entre C. Delgado y 1ra. C. Ote",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$8.00,Librería Escolar 4a Avenida Norte,4a Avenida Norte N° 237,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,Librería Francia,"Calle Delgado y 1a Calle Ote. 4a Av. Norte, N° 119 Bis",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.00,Libreria Iris,1a.calle oriente No. 38c Barrio el Calvario,Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.00,Libreria Karlita,"2a Calle Oriente No 11, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,"Librería Karlita, Ahuachapán",4a Calle Poniente No. 1-7 Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$8.00,Librería La Nueva Centroamericana,6a Avenida Norte No 119,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,Librería San Judas,"décima calle poniente, Barrio El Calvario",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.50,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.00,Librería y Bazar La Costura,"2a Calle Oriente # 4, Edificio Rosenciaft Center, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.00,Librería y Más Yesi,"6a. Avenida Sur y 7a. Calle Poniente, Plaza Alcazar, Frente a Bodegón Sandoval",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$8.00,Librería y Papelería ABC,"3a. Calle Oriente y 4a. Avenida Norte local N° 241 Edificio Kury Planta Baja,San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.50,Librería y Papelería Diversa,"4a. Avenida Norte N° 220 Local 2, Edificio Hernández",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$3.75,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$3.75,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$4.50,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.00,"Librería y Papelería Getsemani, Santa Ana","5a Calle Poniente y 8a Avenida Sur, No 24 Barrio San Sebastián, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$6.50,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,Librería y Papelería Rossy Santa Ana,"Entre 4a avenida Sur y 7a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,"Librería y Papelería Rossy, 6a calle poniente, Barrio San Juan, Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.00,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$6.00,Librería y Papelería Salvadoreña,Cuarta Avenida Norte Local C N° 225 San Salvador,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$8.50,Librería y Papelería San Rey Centro,"4a. Avenida Norte, N° 210 Edificio Pompeya, Zona de librerías",San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.00,Librería y Variedades Montenegro,"1a Calle Oriente N° 10B  y 2a Avenida Sur, costado sur de ex Cine Centenario",Usulutan,Usulutan,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$6.50,Mega Libros,2a calle poniente # 205,San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.85,Mercado de San Miguel,,San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$2.50,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$5.50,Negocios de Oriente,"11a. Avenida Norte No 308, Barrio San Felipe, San Miguel",San Miguel,San Miguel,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$8.50,"Papelería San Rey, 7a av norte",7a. Avenida Norte y 3a. Calle Poniente N° 500,San Salvador,San Salvador,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$3.00,Tienda y Librería Capricornio,"3a Calle Poniente entre 10a. y Avenida José Matías Delgado Sur, Barrio San Luis, # 5",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$7.50,Variedades Papel y Kosas,"8a Avenida Sur y 3a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.17,Almacen Claudycar,7a. Avenida Sur #325,San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.13,Creatividad Artística,"1a Calle Oriente y 1a Avenida Sur No 2-1, Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.25,Despensa de Don Juan Antiguo Cuscatlán,"Boulevard walter Deninger y Avenida Las Palmeras, Antiguo Cuscatlan , la libertad",La Libertad,Antiguo Cuscatlan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.50,Despensa de Don Juan San Miguel Centro,5a. Avenida norte y avenida Monsenor Romero No.207,San Miguel,San Miguel,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.25,Despensa de Don Juan Usulutan,"Final calle Grimaldi, salida a San Miguel, Usulutan.",Usulutan,Usulutan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.10,Despensa Familiar Usulutan,1a calle oriente y 8tava avenida sur # 46-b usulutan,Usulutan,Usulutan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.10,Distribuidora Papelera DM,"2a. Calle Poniente y 9a. Avenida Norte Nº 601, Barrio San Felipe, San Miguel",San Miguel,San Miguel,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Distribuidora Papelera Galvez,"5a Calle Poniente Número 26, entre 6a y  8a Avenida Sur, adelante de Plaza Sevilla, Santa Ana ",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.10,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.18,Farmacia Brasil # 45,"Km 112 carretera Litoral, salida a San Miguel",Usulutan,Usulutan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Farmacia y Librería San Rey N° 11,"Segunda Calle Poniente y Quinta Avenida Norte, San Miguel ",San Miguel,San Miguel,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.10,Farmacia y Librería San Rey N° 31,1a calle oriente y 10 avenida sur local #54,Usulutan,Usulutan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Farmacia y Librería San Rey N° 7,Carretera Panamericana N° 2 Colonia 14 de julio frente a Metrocentro,San Miguel,San Miguel,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Grupo Multicomp,"7a Calle Oriente Callejón Oriente Iglesia El Carmen
+",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.17,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Libreria  y Papeleria Rossy,6a Calle Poniente Barrio El Calvario numero uno guin seis,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,"Librería ""Sagrado Corazón""","4a. Avenida Norte N° 4-3 
+",San Salvador,Soyapango,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.12,"Librería Abraham Lincoln				","1a Calle Oriente, No 16, Usulután",Usulutan,Usulutan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.13,Librería Aranda,1a Calle Oriente N° 127,San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería Bendición de Dios,"Calle Gerardo Barrios, local L-5, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.10,"Librería Cervantes, Avenida Masferrer","Avenida Masferrer Norte, Edificio Barcelona, Local 2 San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.10,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.17,"Librería EDUCA, Soyapango","2a Av. Sur N° 1, Soyapango",San Salvador,Soyapango,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería El Angel Ahuachapán,"Avenida Francisco Menéndez Norte,Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.10,Librería El Castillo Musical Sucursal 1,"4ta. Av.Nte.local No.115, entre C. Delgado y 1ra. C. Ote",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.21,Librería Escolar 1a Calle Oriente,1a Calle Oriente N° 115-A,San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Librería Escolar 4a Avenida Norte,4a Avenida Norte N° 237,San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.25,"Librería Española, Av. España","Av. España Edificio Kauders N° 117, Local 3, San Salvador.",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.25,"Librería Española, Unicentro",Centro Comercial Unicentro Local 12 Soyapango,San Salvador,Soyapango,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Librería Francia,"Calle Delgado y 1a Calle Ote. 4a Av. Norte, N° 119 Bis",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.10,Libreria Iris,1a.calle oriente No. 38c Barrio el Calvario,Usulutan,Usulutan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Libreria Karlita,"2a Calle Oriente No 11, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,"Librería Karlita, Ahuachapán",4a Calle Poniente No. 1-7 Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Librería La Nueva Centroamericana,6a Avenida Norte No 119,San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.18,Librería Latinoamericana,"Centro Comercial Plaza Mundo, Local N° 36, Soyapango",San Salvador,Soyapango,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.19,Librería Moderna Suc. Paseo,"Cond. Balam Quitze, local 15 A-C",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.23,"Librería Nuevo Mundo, 1a Calle Oriente",1a Calle Oriente N° 117,San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.23,"Librería Nuevo Mundo, Plaza Soyapango",Boulevard del Ejército Plaza Soyapango II Local N° 9,San Salvador,Soyapango,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería Rolly,8a Av. Sur y 7a Calle Poniente N° 36 Santa Ana,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería San Judas,"décima calle poniente, Barrio El Calvario",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.16,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería y Bazar La Costura,"2a Calle Oriente # 4, Edificio Rosenciaft Center, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería y Más Yesi,"6a. Avenida Sur y 7a. Calle Poniente, Plaza Alcazar, Frente a Bodegón Sandoval",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Librería y Papelería ABC,"3a. Calle Oriente y 4a. Avenida Norte local N° 241 Edificio Kury Planta Baja,San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.16,Librería y Papelería Diversa,"4a. Avenida Norte N° 220 Local 2, Edificio Hernández",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.18,"Librería y Papelería El Abaco, Unicentro","Centro Comercial Unicentro, Soyapango",San Salvador,Soyapango,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.25,Librería y Papelería El Paseo,"Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.25,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.25,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,"Librería y Papelería Getsemani, Santa Ana","5a Calle Poniente y 8a Avenida Sur, No 24 Barrio San Sebastián, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.17,"Librería y Papelería La Ibérica, Sucursal El Paseo","Paseo General Escalón, No 4713, Contiguo a Farmacia El Paseo",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.18,Librería y Papelería Latinoamérica Metrosur,"Centro Comercial Metrosur, Local 48 G",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.18,"Librería y Papelería Latinoamericana, Metrocentro",Local Centro Comercial Metrocentro Segunda Etapa,San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería y Papelería Rossy Santa Ana,"Entre 4a avenida Sur y 7a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,"Librería y Papelería Rossy, 6a calle poniente, Barrio San Juan, Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Librería y Papelería Salvadoreña,Cuarta Avenida Norte Local C N° 225 San Salvador,San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.28,Librería y Papelería San Rey Centro,"4a. Avenida Norte, N° 210 Edificio Pompeya, Zona de librerías",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.17,"Librería y Papelería San Rey, Sucursal Metrosur","Centro Comercial Metrosur, local 8, tercer nivel, San Salvador",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Libreria y Papeleria Shadai,"4ta. Avenida Norte, No. 110",San Salvador,San Salvador,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.18,"Librería y Papelería Susana			","3a Avenida Norte N° 22, Chalchuapa",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,"Librería y Variedades Danielita, Chalchuapa","7a Avenida Norte casa numero uno, Local numero Cuatro, Barrio las Animas, Las palmeras",Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Libreria y Variedades Emanuel,4a Calle Oriente Barrio Las Animas N. 30,Santa Ana,Chalchuapa,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.10,Librería y Variedades Montenegro,"1a Calle Oriente N° 10B  y 2a Avenida Sur, costado sur de ex Cine Centenario",Usulutan,Usulutan,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.50,Maxi Despensa Soyapango,"Boulevard del Ejercito Nacional Kilometro 4, Soyapango San Salvador",San Salvador,Soyapango,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Mega Libros,2a calle poniente # 205,San Miguel,San Miguel,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.25,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.20,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.25,Mercado de San Miguel,,San Miguel,San Miguel,9/1/2018
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Mercado de San Miguel,,San Miguel,San Miguel,9/1/2018

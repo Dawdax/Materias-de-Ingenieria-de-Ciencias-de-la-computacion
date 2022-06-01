@@ -1,0 +1,200 @@
+Categoria,Producto,Marca,Cantidad,Unidad,Precio,Establecimiento,Direccion,De partamento,Municipio,Fecha Sondeo
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.29,"Huguet, S.A. De C.V.","3a. Av. Norte No.103, Barrio. La Merced",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.30,Innovaciones Yésica,"Segunda avenida sur, casa numero 5-12",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.30,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.25,"Librería ""Sagrado Corazón""","4a. Avenida Norte N° 4-3 
+",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.75,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.35,Librería Cervantes Sucursal Centro,"9a Avenida Sur, # 116",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.30,"Librería Cervantes, Avenida Masferrer","Avenida Masferrer Norte, Edificio Barcelona, Local 2 San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.30,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.75,"Librería de Papel, 4a Avenida Norte",4a Avenida Norte N° 116,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.45,"Librería EDUCA, Soyapango","2a Av. Sur N° 1, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.10,Librería El Angel Ahuachapán,"Avenida Francisco Menéndez Norte,Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.40,"Librería El Castillo Musical, Sucursal","4a Avenida Norte, Edificio Presidente N° 118, local 1",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.54,Librería Escolar 1a Calle Oriente,1a Calle Oriente N° 115-A,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.49,Librería Escolar 4a Avenida Norte,4a Avenida Norte N° 237,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$2.22,"Librería Española, Av. España","Av. España Edificio Kauders N° 117, Local 3, San Salvador.",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$2.00,"Librería Española, Unicentro",Centro Comercial Unicentro Local 12 Soyapango,San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,1.35,Libreria Karlita Ahuachapan,4a Calle Poniente numero 1- 14 A Ahuachapan ,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,1.50,"Librería Karlita, Chalchuapa",2a Calle Oriente No 11 Barrio Las Ánimas,Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,2.25,Librería La Nueva Centroamericana,6a Avenida Norte No 119,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.70,Librería Latinoamericana,"Centro Comercial Plaza Mundo, Local N° 36, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.80,"Librería Matías Delgado, 2a av sur","2a Avenida Sur, Local N° 202, Barrio El Calvario, San Miguel.",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.80,Librería Medalla Milagrosa,"2a Avenida Sur No 303, Barrio El Calvario, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.90,"Librería Nuevo Mundo, 1a Calle Oriente",1a Calle Oriente N° 117,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.80,"Librería Nuevo Mundo, Plaza Soyapango",Boulevard del Ejército Plaza Soyapango II Local #9,San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.30,"Librería San Rey, Sucursal Centro",4a Avenida Norte N° 210,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.05,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.30,"Librería Shadai, Número 110",4a Avenida Norte Número 110 San Salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.36,Librería Susana,"3a Avenida Norte N. 22, Barrio Las Animas",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,-$1.00,Librería y Más Yesi,"6a. Avenida Sur y 7a. Calle Poniente, Plaza Alcazar, Frente a Bodegón Sandoval",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.78,Librería y Papelería ABC,"3a. Calle Oriente y 4a. Avenida Norte local N° 241 Edificio Kury Planta Baja,San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.70,Librería y Papelería Aranda,Primera Calle Oriente N. 127,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.05,Librería y Papelería Diversa,"4a Avenida Norte, N. 220, Local 2, Edificio Hernández",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.05,Librería y Papelería DM,"2a Av. Sur N° 106 Barrio El Calvario, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.60,"Librería y Papelería El Abaco, Unicentro","Centro Comercial Unicentro, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.75,Librería y Papelería El Paseo,"Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,-$1.85,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.85,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.25,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$2.25,libreria y papeleria la Ceiba suc. Metro centro,septima etapa. Local 208p san salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.25,Librería y Papelería La Clásica,1a Avenida Norte y 6a Calle Poniente N° 3 Plaza Floresta San Miguel,San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.40,"Librería y Papelería La Ibérica, Sucursal El Paseo","Paseo General Escalón, No 4713, Contiguo a Farmacia El Paseo",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.70,Librería y Papelería Latinoamérica Metrosur,"Centro Comercial Metrosur, Local 48 G",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.60,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.40,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.25,Librería y Papelería Rossy Santa Ana,"Entre 4a avenida Sur y 7a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.10,"Librería y Papelería Rossy, Barrio El Calvario, Ahuachapán","6a. Calle Poniente, Barrio El Calvario",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.25,"Librería y Papelería Rossy, barrio San Juan Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.25,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.20,Librería y Papelería Roxy N° 225,"4a Av. Norte N° 225, local C, San Salvador. ",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.30,"Librería y Papelería San Rey, Sucursal Metrosur","Centro Comercial Metrosur, local 8, tercer nivel, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.75,"Librería y Variedades Danielita, Chalchuapa","7a Avenida Norte casa numero uno, Local numero Cuatro, Barrio las Animas, Las palmeras",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.50,Librería y Variedades Emmanuel,"Cuarta Calle Oriente, Barrio Las Animas, N° 30",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.00,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.00,"Los Angeles Papelería y Librería			","2a Calle Poniente No 208, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.75,Maxi Despensa Soyapango,"Boulevard del Ejercito Nacional Kilometro 4, Soyapango San Salvador",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.80,Mega Libros,2a calle poniente # 205,San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$2.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$2.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,sinprecio,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$2.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$2.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$2.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.95,"MetroLibro, Metrogalerías","Centro Comercial Metrogalerías, local N° 2, Calle Sisimiles, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.75,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.00,Negocios de Oriente S.A de C.V,"4a. Calle Poniente, N° 705, Barrio San Felipe",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$3.00,"Office Depot, Tienda Express Escalón",Paseo Gral. Escalón entre 83 y 85 Av. Sur N° 1323 San Salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.70,"Papelera y Librería Latino América, Metrocentro 7a etapa","Centro Comercial Metrocentro 7a Etapa, Local 221-P, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.53,Papeleria y libreria Latinoamerica,"7a. Etapa, local. N. 221-P",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.31,Súper Selectos Plaza Mundo,kilometro 4 1/2 boulevard del EJercito Ctro. Plaza Mundo local ancla -A,San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.49,Súper Selectos Selectos Metrocentro Octava Etapa,"Condominio Metrocentro Octava Etapa, Local Numero 281",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.40,Utilesa Nº 1,"2a Calle Poniente No 205 2a y 3a Planta, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$0.90,Walmart Boulevar del Ejército,kilometro 4 1/2 y cuarta avenida sur,San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.25,Walmart Escalon,Colonia Escalon Entre calle Nueva N 1 Y calle Nueva 2 San Salvador.,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,"Bazar La Costura, Casa Matriz","2a Calle Oriente No 4, Chalchuapa",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.90,Creatividad Artística,"1a Calle Oriente y 1a Avenida Sur No 2-1, Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.25,Dollarcity Sucursal San Miguel,4a calle poniente #212,San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,"Farmacia y Librería Brasil Nº 10				","2a Calle Poniente No 304, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Farmacia y Librería San Rey N° 11,"Segunda Calle Poniente y Quinta Avenida Norte, San Miguel ",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,sinprecio,"Farmacia y Librería San Rey N° 23				","4a. Calle Poniente, local No 207, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.75,Grupo Multicomp,"7a Calle Oriente Callejón Oriente Iglesia El Carmen
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.90,"Huguet, S.A. De C.V.","3a. Av. Norte No.103, Barrio. La Merced",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.90,Innovaciones Yésica,"Segunda avenida sur, casa numero 5-12",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.50,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.95,"Librería ""Sagrado Corazón""","4a. Avenida Norte N° 4-3 
+",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.40,Librería Cervantes Sucursal Centro,"9a Avenida Sur, # 116",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.95,"Librería Cervantes, Avenida Masferrer","Avenida Masferrer Norte, Edificio Barcelona, Local 2 San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.40,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.75,"Librería de Papel, 4a Avenida Norte",4a Avenida Norte N° 116,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.25,"Librería EDUCA, Soyapango","2a Av. Sur N° 1, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.90,Librería El Angel Ahuachapán,"Avenida Francisco Menéndez Norte,Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.40,"Librería El Castillo Musical, Sucursal","4a Avenida Norte, Edificio Presidente N° 118, local 1",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.33,Librería Escolar 1a Calle Oriente,1a Calle Oriente N° 115-A,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Librería Escolar 4a Avenida Norte,4a Avenida Norte N° 237,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.60,"Librería Española, Av. España","Av. España Edificio Kauders N° 117, Local 3, San Salvador.",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.60,"Librería Española, Unicentro",Centro Comercial Unicentro Local 12 Soyapango,San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Libreria Karlita Ahuachapan,4a Calle Poniente numero 1- 14 A Ahuachapan ,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,"Librería Karlita, Chalchuapa",2a Calle Oriente No 11 Barrio Las Ánimas,Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.75,Librería La Nueva Centroamericana,6a Avenida Norte No 119,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.30,Librería Latinoamericana,"Centro Comercial Plaza Mundo, Local N° 36, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.20,"Librería Matías Delgado, 2a av sur","2a Avenida Sur, Local N° 202, Barrio El Calvario, San Miguel.",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.15,Librería Medalla Milagrosa,"2a Avenida Sur No 303, Barrio El Calvario, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.25,"Librería Nuevo Mundo, 1a Calle Oriente",1a Calle Oriente N° 117,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.25,"Librería Nuevo Mundo, Plaza Soyapango",Boulevard del Ejército Plaza Soyapango II Local #9,San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.90,"Librería San Rey, Sucursal Centro",4a Avenida Norte N° 210,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.67,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.07,"Librería Shadai, Número 110",4a Avenida Norte Número 110 San Salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.73,Librería Susana,"3a Avenida Norte N. 22, Barrio Las Animas",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.90,Librería y Más Yesi,"6a. Avenida Sur y 7a. Calle Poniente, Plaza Alcazar, Frente a Bodegón Sandoval",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.34,Librería y Papelería ABC,"3a. Calle Oriente y 4a. Avenida Norte local N° 241 Edificio Kury Planta Baja,San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.05,Librería y Papelería Aranda,Primera Calle Oriente N. 127,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.69,Librería y Papelería Diversa,"4a Avenida Norte, N. 220, Local 2, Edificio Hernández",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.85,Librería y Papelería DM,"2a Av. Sur N° 106 Barrio El Calvario, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.26,"Librería y Papelería El Abaco, Unicentro","Centro Comercial Unicentro, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.25,Librería y Papelería El Paseo,"Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.75,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.95,Librería y Papelería La Clásica,1a Avenida Norte y 6a Calle Poniente N° 3 Plaza Floresta San Miguel,San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.90,"Librería y Papelería La Ibérica, Sucursal El Paseo","Paseo General Escalón, No 4713, Contiguo a Farmacia El Paseo",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.30,Librería y Papelería Latinoamérica Metrosur,"Centro Comercial Metrosur, Local 48 G",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.95,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,sin precio,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.80,Librería y Papelería Rossy Santa Ana,"Entre 4a avenida Sur y 7a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.80,"Librería y Papelería Rossy, Barrio El Calvario, Ahuachapán","6a. Calle Poniente, Barrio El Calvario",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.80,"Librería y Papelería Rossy, barrio San Juan Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.80,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.75,Librería y Papelería Roxy N° 225,"4a Av. Norte N° 225, local C, San Salvador. ",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.90,"Librería y Papelería San Rey, Sucursal Metrosur","Centro Comercial Metrosur, local 8, tercer nivel, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.25,"Librería y Variedades Danielita, Chalchuapa","7a Avenida Norte casa numero uno, Local numero Cuatro, Barrio las Animas, Las palmeras",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Librería y Variedades Emmanuel,"Cuarta Calle Oriente, Barrio Las Animas, N° 30",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.59,"Los Angeles Papelería y Librería			","2a Calle Poniente No 208, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Maxi Despensa Soyapango,"Boulevard del Ejercito Nacional Kilometro 4, Soyapango San Salvador",San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.06,Mega Libros,2a calle poniente # 205,San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$3.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$3.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$3.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$3.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$3.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$3.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.40,"MetroLibro, Metrogalerías","Centro Comercial Metrogalerías, local N° 2, Calle Sisimiles, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.50,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.75,Negocios de Oriente S.A de C.V,"4a. Calle Poniente, N° 705, Barrio San Felipe",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.50,"Office Depot, Tienda Express Escalón",Paseo Gral. Escalón entre 83 y 85 Av. Sur N° 1323 San Salvador,San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.70,"Papelera y Librería Latino América, Metrocentro 7a etapa","Centro Comercial Metrocentro 7a Etapa, Local 221-P, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.17,Papeleria y libreria Latinoamerica,"7a. Etapa, local. N. 221-P",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.82,Súper Selectos Plaza Mundo,kilometro 4 1/2 boulevard del EJercito Ctro. Plaza Mundo local ancla -A,San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.82,Súper Selectos Selectos Metrocentro Octava Etapa,"Condominio Metrocentro Octava Etapa, Local Numero 281",San Salvador,San Salvador,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.37,Utilesa Nº 2,"2a Calle Poniente No 206, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Walmart Boulevar del Ejército,kilometro 4 1/2 y cuarta avenida sur,San Salvador,Soyapango,5/1/2018
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$0.90,Walmart Escalon,Colonia Escalon Entre calle Nueva N 1 Y calle Nueva 2 San Salvador.,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.60,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.60,"Bazar La Costura, Casa Matriz","2a Calle Oriente No 4, Chalchuapa",Santa Ana,Chalchuapa,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.75,Creatividad Artística,"1a Calle Oriente y 1a Avenida Sur No 2-1, Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.70,Despenfa Familiar San Miguel Catedral,"4ta Avenida Norte y Calle Sirama, Barrio El Centro.",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.70,Despensa de Don Juan San Miguel Centro,5a. Avenida norte y avenida Monsenor Romero No.207,San Miguel,San Miguel,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$1.25,Dollarcity Sucursal San Miguel,4a calle poniente #212,San Miguel,San Miguel,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.65,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.75,"Farmacia y Librería Brasil Nº 10				","2a Calle Poniente No 304, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.90,"Farmacia y Librería San Rey N° 23				","4a. Calle Poniente, local No 207, San Miguel",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.70,Grupo Multicomp,"7a Calle Oriente Callejón Oriente Iglesia El Carmen
+",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,-$0.54,"Huguet, S.A. De C.V.","3a. Av. Norte No.103, Barrio. La Merced",San Miguel,San Miguel,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.75,Innovaciones Yésica,"Segunda avenida sur, casa numero 5-12",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.73,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.55,"Librería ""Sagrado Corazón""","4a. Avenida Norte N° 4-3 
+",San Salvador,Soyapango,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.80,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.80,Librería Cervantes Sucursal Centro,"9a Avenida Sur, # 116",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.80,"Librería Cervantes, Avenida Masferrer","Avenida Masferrer Norte, Edificio Barcelona, Local 2 San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,sinprecio,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.95,"Librería de Papel, 4a Avenida Norte",4a Avenida Norte N° 116,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.65,"Librería EDUCA, Soyapango","2a Av. Sur N° 1, Soyapango",San Salvador,Soyapango,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.60,Librería El Angel Ahuachapán,"Avenida Francisco Menéndez Norte,Ahuachapán",Ahuachapan,Ahuachapan,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.98,"Librería El Castillo Musical, Sucursal","4a Avenida Norte, Edificio Presidente N° 118, local 1",San Salvador,San Salvador,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,-$0.60,Librería Escolar 1a Calle Oriente,1a Calle Oriente N° 115-A,San Salvador,San Salvador,5/1/2018
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.59,Librería Escolar 4a Avenida Norte,4a Avenida Norte N° 237,San Salvador,San Salvador,5/1/2018

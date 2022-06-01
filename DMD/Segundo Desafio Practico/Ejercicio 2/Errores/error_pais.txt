@@ -1,0 +1,1 @@
+Copia de country_region_code,Copia de country_region,ErrorCode,ErrorColumn

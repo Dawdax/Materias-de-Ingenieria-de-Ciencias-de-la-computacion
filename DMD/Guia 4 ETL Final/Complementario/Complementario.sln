@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Complementario", "Complementario\Complementario.dtproj", "{10D18474-7B6F-4A0B-B313-1F20411B999E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D18474-7B6F-4A0B-B313-1F20411B999E}.Development|Default.ActiveCfg = Development
+		{10D18474-7B6F-4A0B-B313-1F20411B999E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED4625F-154B-401D-8243-738DF0149792}
+	EndGlobalSection
+EndGlobal

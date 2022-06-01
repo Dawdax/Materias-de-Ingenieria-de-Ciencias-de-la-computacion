@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>OLEDB-MD</Extension>
+    <ConnectString>Data Source=localhost;Initial Catalog=Complementario</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+  </ConnectionProperties>
+  <DataSourceID>d923d649-d8f4-434d-8db0-c856989447d7</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,201 @@
+Categoria,Producto,Marca,Cantidad,Unidad,Precio,Establecimiento,Direccion,De partamento,Municipio,Fecha Sondeo
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.39,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.60,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.85,"Papelera y Librería Latino América, Metrocentro 7a etapa","Centro Comercial Metrocentro 7a Etapa, Local 221-P, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,Variedades Papel y Kosas,"8a Avenida Sur y 3a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.45,Walmart Boulevar del Ejército,kilometro 4 1/2 y cuarta avenida sur,San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,Almacen Claudycar,7a. Avenida Sur #325,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.28,Distribuidora Papelera DM,"2a. Calle Poniente y 9a. Avenida Norte Nº 601, Barrio San Felipe, San Miguel",San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,Distribuidora Papelera Galvez,"5a Calle Poniente Número 26, entre 6a y  8a Avenida Sur, adelante de Plaza Sevilla, Santa Ana ",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,"Librería Cervantes, Avenida Masferrer","Avenida Masferrer Norte, Edificio Barcelona, Local 2 San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Librería Escolar 1a Calle Oriente,1a Calle Oriente N° 115-A,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,"Librería Española, Unicentro",Centro Comercial Unicentro Local 12 Soyapango,San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Librería Francia,"Calle Delgado y 1a Calle Ote. 4a Av. Norte, N° 119 Bis",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Libreria Karlita,"2a Calle Oriente No 11, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,"Librería Karlita, Ahuachapán",4a Calle Poniente No. 1-7 Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.41,"Librería Nuevo Mundo, 1a Calle Oriente",1a Calle Oriente N° 117,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Librería San Judas,"décima calle poniente, Barrio El Calvario",Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.32,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Librería y Bazar La Costura,"2a Calle Oriente # 4, Edificio Rosenciaft Center, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.32,Librería y Papelería Diversa,"4a. Avenida Norte N° 220 Local 2, Edificio Hernández",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,"Librería y Papelería El Abaco, Unicentro","Centro Comercial Unicentro, Soyapango",San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.25,"Librería y Papelería Getsemani, Santa Ana","5a Calle Poniente y 8a Avenida Sur, No 24 Barrio San Sebastián, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.41,"Librería y Papelería La Ibérica, Sucursal El Paseo","Paseo General Escalón, No 4713, Contiguo a Farmacia El Paseo",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.45,"Librería y Papelería Latinoamericana, Metrocentro",Local Centro Comercial Metrocentro Segunda Etapa,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,"Librería y Papelería Rossy, 6a calle poniente, Barrio San Juan, Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.31,Librería y Papelería Salvadoreña,Cuarta Avenida Norte Local C N° 225 San Salvador,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,"Librería y Papelería San Rey, Sucursal Metrosur","Centro Comercial Metrosur, local 8, tercer nivel, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.32,Libreria y Papeleria Shadai,"4ta. Avenida Norte, No. 110",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Libreria y Variedades Emanuel,4a Calle Oriente Barrio Las Animas N. 30,Santa Ana,Chalchuapa,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.29,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.40,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,Variedades Papel y Kosas,"8a Avenida Sur y 3a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.35,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.30,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.30,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.30,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.30,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.30,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 5 mm (50/100),Sin Marca,1,Unidades,$0.30,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Almacen Claudycar,7a. Avenida Sur #325,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Despensa de Don Juan Antiguo Cuscatlán,"Boulevard walter Deninger y Avenida Las Palmeras, Antiguo Cuscatlan , la libertad",La Libertad,Antiguo Cuscatlan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Despensa de Don Juan San Miguel Centro,5a. Avenida norte y avenida Monsenor Romero No.207,San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Despensa de Don Juan Usulutan,"Final calle Grimaldi, salida a San Miguel, Usulutan.",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Despensa Familiar Usulutan,1a calle oriente y 8tava avenida sur # 46-b usulutan,Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.46,Distribuidora Papelera DM,"2a. Calle Poniente y 9a. Avenida Norte Nº 601, Barrio San Felipe, San Miguel",San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Distribuidora Papelera Galvez,"5a Calle Poniente Número 26, entre 6a y  8a Avenida Sur, adelante de Plaza Sevilla, Santa Ana ",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Dollarcity Usulutan,"calle Grimaldi y 6a avenida norte, barrio La Parroquia",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.66,Farmacia Brasil # 45,"Km 112 carretera Litoral, salida a San Miguel",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.57,Farmacia y Librería San Rey N° 11,"Segunda Calle Poniente y Quinta Avenida Norte, San Miguel ",San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.59,Farmacia y Librería San Rey N° 31,1a calle oriente y 10 avenida sur local #54,Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.59,Farmacia y Librería San Rey N° 7,Carretera Panamericana N° 2 Colonia 14 de julio frente a Metrocentro,San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.65,Grupo Multicomp,"7a Calle Oriente Callejón Oriente Iglesia El Carmen
+",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Libreria  y Papeleria Rossy,6a Calle Poniente Barrio El Calvario numero uno guin seis,Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,"Librería ""Sagrado Corazón""","4a. Avenida Norte N° 4-3 
+",San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.40,"Librería Abraham Lincoln				","1a Calle Oriente, No 16, Usulután",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.47,Librería Aranda,1a Calle Oriente N° 127,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.47,Librería Bendición de Dios,"Calle Gerardo Barrios, local L-5, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,"Librería Cervantes, Avenida Masferrer","Avenida Masferrer Norte, Edificio Barcelona, Local 2 San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,"Librería EDUCA, Soyapango","2a Av. Sur N° 1, Soyapango",San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,Librería El Angel Ahuachapán,"Avenida Francisco Menéndez Norte,Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.65,Librería El Castillo Musical Sucursal 1,"4ta. Av.Nte.local No.115, entre C. Delgado y 1ra. C. Ote",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Librería Escolar 1a Calle Oriente,1a Calle Oriente N° 115-A,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Librería Escolar 4a Avenida Norte,4a Avenida Norte N° 237,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.58,"Librería Española, Av. España","Av. España Edificio Kauders N° 117, Local 3, San Salvador.",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,"Librería Española, Unicentro",Centro Comercial Unicentro Local 12 Soyapango,San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería Francia,"Calle Delgado y 1a Calle Ote. 4a Av. Norte, N° 119 Bis",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.48,Libreria Iris,1a.calle oriente No. 38c Barrio el Calvario,Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.49,Libreria Karlita,"2a Calle Oriente No 11, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,"Librería Karlita, Ahuachapán",4a Calle Poniente No. 1-7 Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería La Nueva Centroamericana,6a Avenida Norte No 119,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.59,Librería Moderna Suc. Paseo,"Cond. Balam Quitze, local 15 A-C",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,"Librería Nuevo Mundo, 1a Calle Oriente",1a Calle Oriente N° 117,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.65,"Librería Nuevo Mundo, Plaza Soyapango",Boulevard del Ejército Plaza Soyapango II Local N° 9,San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería Rolly,8a Av. Sur y 7a Calle Poniente N° 36 Santa Ana,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería San Judas,"décima calle poniente, Barrio El Calvario",Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.49,Librería y Bazar La Costura,"2a Calle Oriente # 4, Edificio Rosenciaft Center, Barrio Las Animas",Santa Ana,Chalchuapa,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería y Más Yesi,"6a. Avenida Sur y 7a. Calle Poniente, Plaza Alcazar, Frente a Bodegón Sandoval",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Librería y Papelería ABC,"3a. Calle Oriente y 4a. Avenida Norte local N° 241 Edificio Kury Planta Baja,San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería y Papelería Diversa,"4a. Avenida Norte N° 220 Local 2, Edificio Hernández",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.60,"Librería y Papelería El Abaco, Unicentro","Centro Comercial Unicentro, Soyapango",San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería y Papelería El Paseo,"Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.65,Librería y Papelería Energy 3,Calle Libertad entre 4a y 6a Avenida Sur # 3,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.65,Librería y Papelería Energy II,"Calle Libertad entre 4a y 6a Avenida Sur, # 16",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.40,"Librería y Papelería Getsemani, Barrio El Calvario","8a Calle Oriente, Barrio El Calvario, Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.40,"Librería y Papelería Getsemani, Santa Ana","5a Calle Poniente y 8a Avenida Sur, No 24 Barrio San Sebastián, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Librería y Papelería Latinoamérica Metrosur,"Centro Comercial Metrosur, Local 48 G",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,"Librería y Papelería Latinoamericana, Metrocentro",Local Centro Comercial Metrocentro Segunda Etapa,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.60,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería y Papelería Rossy Santa Ana,"Entre 4a avenida Sur y 7a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,"Librería y Papelería Rossy, 6a calle poniente, Barrio San Juan, Ahuachapán","6a. Calle Poniente, Barrio San Juan de Dios N° 3-2",Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,"Librería y Papelería Rosy, 10a calle poniente, Ahuachapán",10 Calle Poniente Ahuachapán,Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,Librería y Papelería Salvadoreña,Cuarta Avenida Norte Local C N° 225 San Salvador,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Librería y Papelería San Rey Centro,"4a. Avenida Norte, N° 210 Edificio Pompeya, Zona de librerías",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,"Librería y Papelería San Rey, Sucursal Metrosur","Centro Comercial Metrosur, local 8, tercer nivel, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Libreria y Papeleria Shadai,"4ta. Avenida Norte, No. 110",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,"Librería y Papelería Susana			","3a Avenida Norte N° 22, Chalchuapa",Santa Ana,Chalchuapa,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,"Librería y Variedades Danielita, Chalchuapa","7a Avenida Norte casa numero uno, Local numero Cuatro, Barrio las Animas, Las palmeras",Santa Ana,Chalchuapa,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.60,Libreria y Variedades Emanuel,4a Calle Oriente Barrio Las Animas N. 30,Santa Ana,Chalchuapa,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Librería y Variedades Ideas Creativas,2a. Calle Poniente y 4a. Avenida Norte,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.39,Librería y Variedades Josué,"6a. Avenida Norte Local N° 9 Mercado Municipal N° 1, Usulután",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.39,Librería y Variedades Montenegro,"1a Calle Oriente N° 10B  y 2a Avenida Sur, costado sur de ex Cine Centenario",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Maxi Despensa Soyapango,"Boulevard del Ejercito Nacional Kilometro 4, Soyapango San Salvador",San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.56,Mega Libros,2a calle poniente # 205,San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Central de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado Colón de Santa Ana,,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.57,Mercado de San Miguel,,San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Mercado de San Miguel,,San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Mercado de San Miguel,,San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.42,Mercado de San Miguel,,San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.75,"MetroLibro, Metrogalerías","Centro Comercial Metrogalerías, local N° 2, Calle Sisimiles, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.60,"Multiservicios Victoria, librería, copias y más",7a. Calle Oriente entre 1a y 3a Avenida Sur Barrio Santa Cruz,Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.65,Negocios de Oriente,"11a. Avenida Norte No 308, Barrio San Felipe, San Miguel",San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.62,"Papelera y Librería Latino América, Metrocentro 7a etapa","Centro Comercial Metrocentro 7a Etapa, Local 221-P, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,"Papelería San Rey, 7a av norte",7a. Avenida Norte y 3a. Calle Poniente N° 500,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.58,Súper Selectos España,Entre Avenida España y Tercera Calle Poniente,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.58,Súper Selectos la Sultana,Urbanizacion y Boulevard La Sultana pasaje La Sultana Antiguo Cuscatlan L.L.,La Libertad,Antiguo Cuscatlan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.58,Súper Selectos Plaza Mundo,kilometro 4 1/2 boulevard del EJercito Ctro. Plaza Mundo local ancla -A,San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.65,Súper Selectos Selectos Metrocentro Octava Etapa,"Condominio Metrocentro Octava Etapa, Local Numero 281",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.58,Súper Selectos Usulutan Centro,"1a calle oriente n 42, barrio El Calvario, Usulutan.",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.40,Tienda y Librería Capricornio,"3a Calle Poniente entre 10a. y Avenida José Matías Delgado Sur, Barrio San Luis, # 5",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Variedades Papel y Kosas,"8a Avenida Sur y 3a Calle Poniente, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,Walmart Boulevar del Ejército,kilometro 4 1/2 y cuarta avenida sur,San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,Walmart Escalon,Colonia Escalon Entre calle Nueva N 1 Y calle Nueva 2 San Salvador.,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.55,Walmart San Miguel,"Carretera al Delirio Avenda La Pista , Boulevard Campos Eliseo.",San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.50,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.45,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.40,Almacen Claudycar,7a. Avenida Sur #325,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.40,Almacen y Librería SOLO,"Calle Rubén Darío #418, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.28,Distribuidora Papelera DM,"2a. Calle Poniente y 9a. Avenida Norte Nº 601, Barrio San Felipe, San Miguel",San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.40,Distribuidora Papelera Galvez,"5a Calle Poniente Número 26, entre 6a y  8a Avenida Sur, adelante de Plaza Sevilla, Santa Ana ",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.50,Dollarcity Sucursal San Miguel,4a calle poniente #212,San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.35,Eunice´s Librería y Papelería ,"Calle Libertad poniente entre 4a y 6a av. Norte N°10
+",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.38,Farmacia Brasil # 45,"Km 112 carretera Litoral, salida a San Miguel",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.40,Farmacia y Librería San Rey N° 11,"Segunda Calle Poniente y Quinta Avenida Norte, San Miguel ",San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.36,Farmacia y Librería San Rey N° 31,1a calle oriente y 10 avenida sur local #54,Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.36,Farmacia y Librería San Rey N° 7,Carretera Panamericana N° 2 Colonia 14 de julio frente a Metrocentro,San Miguel,San Miguel,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.50,Grupo Multicomp,"7a Calle Oriente Callejón Oriente Iglesia El Carmen
+",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.40,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.35,Libreria  y Papeleria Rossy,6a Calle Poniente Barrio El Calvario numero uno guin seis,Ahuachapan,Ahuachapan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.35,"Librería ""Sagrado Corazón""","4a. Avenida Norte N° 4-3 
+",San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.27,"Librería Abraham Lincoln				","1a Calle Oriente, No 16, Usulután",Usulutan,Usulutan,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.31,Librería Aranda,1a Calle Oriente N° 127,San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.30,Librería Bendición de Dios,"Calle Gerardo Barrios, local L-5, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.40,"Librería Cervantes, Avenida Masferrer","Avenida Masferrer Norte, Edificio Barcelona, Local 2 San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.40,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.38,"Librería EDUCA, Soyapango","2a Av. Sur N° 1, Soyapango",San Salvador,Soyapango,9/1/2018
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.30,Librería El Angel Ahuachapán,"Avenida Francisco Menéndez Norte,Ahuachapán",Ahuachapan,Ahuachapan,9/1/2018

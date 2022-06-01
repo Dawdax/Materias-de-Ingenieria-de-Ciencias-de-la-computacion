@@ -1,0 +1,255 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="eabc6a11-6027-4ec4-825a-9396c51b5cc8" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>DIM Porcentajes</ID>
+  <Name>DIM Porcentajes</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-681" scrolltop="-2633" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="6482" y="9260" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01000000900144420100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DIM_Porcentajes" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="5080" height="3995" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000d81300009b0f0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_DIM_Porcentajes" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-681</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-2633</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="0f850cd8-bfb1-4a32-a772-23713ca666e0">
+    <DataSourceViewID>SV Region Mobility Report</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="c42e6dba-ba31-4a04-83f7-381979bebfc1">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="435134a4-eff5-4bb9-b47c-f7f95adfc31b">
+      <ID>Cod Porcentajes</ID>
+      <Name>Cod Porcentajes</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="fb541c67-9410-4136-8d8a-09d1eb29525f">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="46d9b303-63bc-4d7b-9c59-e6d8df9785b5">
+            <TableID>dbo_DIM_Porcentajes</TableID>
+            <ColumnID>Cod_Porcentajes</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="e0fb1838-aff8-4c23-80e6-cdbb533fb443">
+          <AttributeID>Cambio E Públicos</AttributeID>
+          <Name>Cambio E Públicos</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="e8721021-2fed-4581-b638-a79de9d7324d">
+          <AttributeID>Cambio Tiendas</AttributeID>
+          <Name>Cambio Tiendas</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="e8316469-8095-4713-a04f-bc7f1a8cc29f">
+          <AttributeID>Cambio Comercio Recreación</AttributeID>
+          <Name>Cambio Comercio Recreación</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="418fa65e-658b-463c-8592-15f1c281c1e1">
+          <AttributeID>Cambio Tránsito</AttributeID>
+          <Name>Cambio Tránsito</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="16aad5a9-5e1c-482d-81c6-9ecf063245b5">
+          <AttributeID>Cambio Trabajo</AttributeID>
+          <Name>Cambio Trabajo</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="fe41857e-1b82-48b8-8f90-f44ebe265b60">
+          <AttributeID>Cambio Residencia</AttributeID>
+          <Name>Cambio Residencia</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="fecd21be-880f-443b-ba52-383c8ac53bad">
+      <ID>Cambio E Públicos</ID>
+      <Name>Cambio E Públicos</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="6117a79a-79b1-4e06-a16e-715e8f4ca0ad">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="0133eed0-b97f-407e-996c-c0b0d3869bab">
+            <TableID>dbo_DIM_Porcentajes</TableID>
+            <ColumnID>Cambio_E_Públicos</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="13a8a09f-7425-4970-86e1-89f7a545460c">
+      <ID>Cambio Tiendas</ID>
+      <Name>Cambio Tiendas</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="e2e4025d-7840-4437-aba2-4b5a905a1291">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a4b2ca25-dcd0-418b-853b-4cb11d254e53">
+            <TableID>dbo_DIM_Porcentajes</TableID>
+            <ColumnID>Cambio_Tiendas</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="5203ca05-e56b-48c2-9af0-c7b6cbcdd116">
+      <ID>Cambio Comercio Recreación</ID>
+      <Name>Cambio Comercio Recreación</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="0f22f9c4-8057-4402-9126-33f11ec18e56">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d37400b4-df6d-4866-9471-53c8fb1bbc35">
+            <TableID>dbo_DIM_Porcentajes</TableID>
+            <ColumnID>Cambio_Comercio_Recreación</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="84481aae-2181-43ed-9760-0a797400b40c">
+      <ID>Cambio Tránsito</ID>
+      <Name>Cambio Tránsito</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="436ef450-f6c9-40a3-b622-25c2d41a9c81">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="becf5a49-f834-42bc-afe7-d03754f98f65">
+            <TableID>dbo_DIM_Porcentajes</TableID>
+            <ColumnID>Cambio_Tránsito</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="b97ef9c3-3dc8-4d3a-a5b9-00e75a724a5a">
+      <ID>Cambio Trabajo</ID>
+      <Name>Cambio Trabajo</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="cb77db54-6376-4576-ac2e-9e09cf753ba5">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="08d01cfc-d66a-41f2-88d7-015f5d23ddf8">
+            <TableID>dbo_DIM_Porcentajes</TableID>
+            <ColumnID>Cambio_Trabajo</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="ecfadf4f-11d3-4317-9d28-4a415166dc73">
+      <ID>Cambio Residencia</ID>
+      <Name>Cambio Residencia</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="6c8cf1bf-4af8-49d8-9671-e9496f4c4cea">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="4e5f37cf-1fee-47f2-ad79-45a289aba915">
+            <TableID>dbo_DIM_Porcentajes</TableID>
+            <ColumnID>Cambio_Residencia</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <Hierarchies>
+    <Hierarchy dwd:design-time-name="b3d7fc72-cb93-4204-a2c6-11522b9ba464">
+      <ID>Jerarquía</ID>
+      <Name>Jerarquía</Name>
+      <Levels>
+        <Level dwd:design-time-name="8dd78d29-23b8-4ec0-aa73-e25e7b4328df">
+          <ID>Cambio Trabajo</ID>
+          <Name>Cambio Trabajo</Name>
+          <SourceAttributeID>Cambio Trabajo</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="fadb6b74-db5f-4ce5-b634-03b657fe4133">
+          <ID>Cambio Comercio Recreación</ID>
+          <Name>Cambio Comercio Recreación</Name>
+          <SourceAttributeID>Cambio Comercio Recreación</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="f500f10f-329e-4bb5-8b12-25fd5258d612">
+          <ID>Cambio Tiendas</ID>
+          <Name>Cambio Tiendas</Name>
+          <SourceAttributeID>Cambio Tiendas</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="20e9be44-8217-4d89-83ad-4af6dd9847be">
+          <ID>Cambio Tránsito</ID>
+          <Name>Cambio Tránsito</Name>
+          <SourceAttributeID>Cambio Tránsito</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="bb396725-03bc-4eec-8579-a0f9d7ffc610">
+          <ID>Cambio E Públicos</ID>
+          <Name>Cambio E Públicos</Name>
+          <SourceAttributeID>Cambio E Públicos</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="45c86fd0-4816-4e35-81b7-72f6680986ef">
+          <ID>Cambio Residencia</ID>
+          <Name>Cambio Residencia</Name>
+          <SourceAttributeID>Cambio Residencia</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+  </Hierarchies>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

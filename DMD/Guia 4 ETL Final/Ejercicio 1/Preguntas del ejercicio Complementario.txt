@@ -1,0 +1,15 @@
+¿Se ejecuta correctamente el ejercicio?
+R// El ETL se ejecuta y los archivos llegan a la base de datos de destino. Cabe resaltar que se le agregaron 
+elementos que no están en la imagen de la guía, esto para evitar errores de conversión de la data.
+
+¿Qué sucede si cambia el error output por Ignore failure?
+R//El ETL se sigue ejecutando de forma correcta, pero al revisar las filas adicionadas a la base de datos 
+encontramos un número más grande, así que se adicionan filas extras al ignorar el error.
+
+¿Qué sucede si configura el Error de Conversion para que realice Ignore failure?
+R// Es el mismo caso de la pregunta anterior, pero en menor medida.
+
+2-Al utilizar el For Each Loop Container el flat file error se vuelve muy extenso, lo cual significa que
+perdemos muchos registros. ¿Puede recuperarse esa DATA?
+R//En este ETL los registros de error no tienen ningún destino, así que estos registros se pierde, pero
+al asignarles el destino se puede retomar toda la info para recuperar la data que ha sufrido un error de conversión.

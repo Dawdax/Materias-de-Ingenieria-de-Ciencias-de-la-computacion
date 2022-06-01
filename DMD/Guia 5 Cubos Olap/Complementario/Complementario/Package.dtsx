@@ -1,0 +1,2365 @@
+﻿<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="9/10/2020 2:07:24 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="DESKTOP-G8U2RB1"
+  DTS:CreatorName="DESKTOP-G8U2RB1\Adilson"
+  DTS:DTSID="{3332E395-A05E-49ED-B450-5FB5D7127B43}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.128"
+  DTS:LocaleID="17418"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{A1F2DFC4-69AE-46D1-8267-127BF04F7185}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Administrador de conexiones de archivos planos]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{9E2AD046-1B5A-44CB-A5E8-AD670779BD52}"
+      DTS:ObjectName="Administrador de conexiones de archivos planos">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="17418"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x0022_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\Adilson\Documents\GitHub\Laboratorio-de-Datawarehouse\Guia 4 ETL Final\Ejercicio 1\bulkfiles\xaa.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Categoria"
+              DTS:DTSID="{C59406CD-1121-4C0E-9A9F-9F489BBB59C3}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Producto"
+              DTS:DTSID="{AC1B4E35-75A5-4BA6-9C7D-EA5206B6B1CA}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Marca"
+              DTS:DTSID="{F55BE2C3-CCBC-45C7-AA61-31DA1498FD8A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="4"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Cantidad"
+              DTS:DTSID="{78D79E3B-6EA7-4B3C-A5A7-BF188E31E77D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Unidad"
+              DTS:DTSID="{22DCA4B2-D591-4587-B41E-6F6E3C3887F0}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="6"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Precio"
+              DTS:DTSID="{84172D5A-A827-4913-9978-111E503DD196}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Establecimiento"
+              DTS:DTSID="{F0F9A7FF-A48C-4BB3-BE2A-DDE86FABCEC9}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Direccion"
+              DTS:DTSID="{52A880C6-61DB-4608-AEDC-57C1537D5657}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="De partamento"
+              DTS:DTSID="{AB0016C0-DDF1-4BC5-A568-260515AA4019}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Municipio"
+              DTS:DTSID="{DB5E42E5-E734-41BA-82D8-27975EC89972}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Fecha Sondeo"
+              DTS:DTSID="{0ABBFB52-C993-475C-911F-65D9E8E8BE6B}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[conversion_error]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{9DF560F9-38C6-417A-9EC9-803AA38F4121}"
+      DTS:ObjectName="conversion_error">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="22538"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\Adilson\Documents\GitHub\Laboratorio-de-Datawarehouse\Guia 4 ETL Final\Ejercicio 1\bulkfiles\error_output\data_conversion_error.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Categoria"
+              DTS:DTSID="{EF9C017A-F223-45E5-AD93-5B512CC1CD78}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Producto"
+              DTS:DTSID="{833BB1DA-D78A-4237-96FE-143296E590A2}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Marca"
+              DTS:DTSID="{4B6E0AB6-94C0-423A-B323-EF9E7975D9F1}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="20"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Cantidad"
+              DTS:DTSID="{D2F368B3-3172-41E1-B004-56106EB53F70}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Unidad"
+              DTS:DTSID="{B7ACCB10-B48D-4A68-9A84-B4C35E55029F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Precio"
+              DTS:DTSID="{CD9E99A8-BB37-425F-852D-F7E8D0C00D9B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="4000"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Establecimiento"
+              DTS:DTSID="{3013676A-F604-40D7-BD91-346FE27FA93E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="400"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Direccion"
+              DTS:DTSID="{8ABA61DD-0B6D-45BF-AAFC-3B067C3035F4}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="De partamento"
+              DTS:DTSID="{EEA0D903-F1A4-4D6E-9E83-385C14F6330A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Municipio"
+              DTS:DTSID="{05DCEC7F-4D7D-4042-A3F9-FA28C7BCE72F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Fecha Sondeo"
+              DTS:DTSID="{8F9F230C-C613-4930-9A7F-6F2A72198FF9}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Precio_fixed"
+              DTS:DTSID="{323F1B31-CC12-423E-8220-D83BAA4C4B51}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorCode"
+              DTS:DTSID="{707BDEA0-D0E1-42AE-9C40-3DB9A633D5D1}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorColumn"
+              DTS:DTSID="{54BB709D-7855-4E52-B36E-0C940F62FCDF}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-G8U2RB1\SQLEXPRESS.sv_school_products]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{53093A6F-335C-48D7-9B15-B61FDD0E2896}"
+      DTS:ObjectName="DESKTOP-G8U2RB1\SQLEXPRESS.sv_school_products">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="Data Source=DESKTOP-G8U2RB1\SQLEXPRESS;Initial Catalog=sv_school_products;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[error de archivo plano]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{2F7FDDE6-59C7-43A7-9FBD-EEF6DF77C573}"
+      DTS:ObjectName="error de archivo plano">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="22538"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\Adilson\Documents\GitHub\Laboratorio-de-Datawarehouse\Guia 4 ETL Final\Ejercicio 1\bulkfiles\error_output\flat_file_error.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Categoria"
+              DTS:DTSID="{B8298698-D613-43FD-B411-9A7D0ABB206F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Producto"
+              DTS:DTSID="{D2688E98-FE77-4AB2-A5DD-845CC411AF22}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Marca"
+              DTS:DTSID="{A56A7CCA-8486-4720-B48D-A284CC5EE886}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="20"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Cantidad"
+              DTS:DTSID="{66B0BAD9-1CDB-4217-BE5F-95BFD9068CFE}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Unidad"
+              DTS:DTSID="{41F7439A-0C75-41D0-8B50-D3A3E8EF267D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Precio"
+              DTS:DTSID="{24CC082F-A076-4BB4-8CCA-D25955A1D825}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="4000"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Establecimiento"
+              DTS:DTSID="{5ADE0849-9D34-45D1-9337-CE11D68E4DDE}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="400"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Direccion"
+              DTS:DTSID="{C362AA13-0FEB-49E2-BC16-4219E57DD396}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="De partamento"
+              DTS:DTSID="{8C9F318F-868A-456F-9CF5-CA8AD98BB2E5}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Municipio"
+              DTS:DTSID="{53A9B9F4-3745-4C03-AA13-C393813167A8}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Fecha Sondeo"
+              DTS:DTSID="{926A5006-ACFE-48B1-84EC-94BA489CC74F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorCode"
+              DTS:DTSID="{0C181B7D-8161-4A6B-A8A5-F10C2938DEBD}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorColumn"
+              DTS:DTSID="{503D03A5-3E2D-4BBE-9CCB-43B28A954960}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[error_fecha]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{6762CD19-0D17-4524-9B93-095188D2AD64}"
+      DTS:ObjectName="error_fecha">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="22538"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\Adilson\Documents\GitHub\Laboratorio-de-Datawarehouse\Guia 4 ETL Final\Ejercicio 1\bulkfiles\error_output\date_error.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Categoria"
+              DTS:DTSID="{92E7F253-72BF-41A9-B714-331890F1987F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Producto"
+              DTS:DTSID="{6AC2F652-7675-487E-9828-9C2B521D76D3}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Marca"
+              DTS:DTSID="{FDB2B4A7-B132-4A8F-A3B5-1F6812D72E34}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="20"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Cantidad"
+              DTS:DTSID="{570C1917-F6FB-4697-973A-C3228212C89A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Unidad"
+              DTS:DTSID="{111F2A65-3925-4C5C-BAE5-5FEC38DE0348}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Precio"
+              DTS:DTSID="{FB616942-55F8-4132-B31F-9EF45D521067}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="4000"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Establecimiento"
+              DTS:DTSID="{8463B027-CEA3-4910-BE3D-75EC493CA151}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="400"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Direccion"
+              DTS:DTSID="{BD7B75CD-A33D-437E-BD3E-37EC815498C5}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="De partamento"
+              DTS:DTSID="{F59FAF23-8808-413A-82D9-ABFFEF00E8DB}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Municipio"
+              DTS:DTSID="{D9D4D5CF-90FD-4873-BA95-F194C5B32225}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Fecha Sondeo"
+              DTS:DTSID="{06ADFA05-DDC8-49D7-A89D-7A425C0A1C8D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Precio_fixed"
+              DTS:DTSID="{4440795D-5785-4A0B-8078-61F0913A9BBF}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Categoria"
+              DTS:DTSID="{BD76B80D-6819-4FF1-9DDC-020E43418AB0}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Producto"
+              DTS:DTSID="{9162431F-F991-4C8B-97DF-6303C045A832}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Marca"
+              DTS:DTSID="{728A610D-7541-4571-8DE9-63FCCE8A4A20}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="20"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Cantidad"
+              DTS:DTSID="{605014A9-62D6-488C-A058-D0E40BA10D16}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Unidad"
+              DTS:DTSID="{40D0FEB5-157C-47CF-9E12-7273DE84B281}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="500"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Establecimiento"
+              DTS:DTSID="{5C2744AE-CD4E-45FD-B441-B72A4D56F584}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="400"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Direccion"
+              DTS:DTSID="{2BA3D0C9-3C86-4A91-BA0A-D5335CDF32F6}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de De partamento"
+              DTS:DTSID="{A909CC79-FF18-4549-A7CC-7AE738C687E1}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Municipio"
+              DTS:DTSID="{F8981941-C313-4ADF-BD4C-961986E7FADE}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Fecha Sondeo"
+              DTS:DTSID="{1CE76189-DC63-4D4A-AE3D-761BAB67D6B7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="6"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Precio_fixed"
+              DTS:DTSID="{8D35FCD6-32E2-49D4-AAE6-785730EF3332}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorCode"
+              DTS:DTSID="{06F3F088-4E38-4EDF-A03D-305A12B493B7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorColumn"
+              DTS:DTSID="{77885BB0-25ED-4F90-8F6A-C987FA682E5A}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[error_negativos]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{4890E56B-B8ED-4756-BA80-E91D72FBB0CB}"
+      DTS:ObjectName="error_negativos">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="22538"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\Users\Adilson\Documents\GitHub\Laboratorio-de-Datawarehouse\Guia 4 ETL Final\Ejercicio 1\bulkfiles\error_output\negative_price_error.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Categoria"
+              DTS:DTSID="{F0A80FF7-2079-4795-96F9-3959523A9707}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Producto"
+              DTS:DTSID="{03B061A1-B0C3-422B-B54B-4CAFB32B2C5A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Marca"
+              DTS:DTSID="{73D4B5BB-FCB4-4E4B-8434-CD4D068BD284}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="20"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Cantidad"
+              DTS:DTSID="{D03DD57F-0BD3-434D-905F-60E8098F04E4}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Unidad"
+              DTS:DTSID="{9B4C9569-592B-4C51-A7A9-50077D34C4AE}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Precio"
+              DTS:DTSID="{B1EE65DE-A73B-40BB-B32A-08945919C495}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="4000"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Establecimiento"
+              DTS:DTSID="{4E23A7AB-C286-4112-8A46-089394CF19AD}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="400"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Direccion"
+              DTS:DTSID="{9D6FE355-98BF-4D94-8E0E-47B1101E5EA7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="De partamento"
+              DTS:DTSID="{A6F68439-D681-42D3-BEB5-AA77852B9622}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Municipio"
+              DTS:DTSID="{E06B704D-871E-4B3D-A959-5C9F60FF836E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Fecha Sondeo"
+              DTS:DTSID="{332A4558-17F5-4F8B-93D9-0EF90180FABB}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Precio_fixed"
+              DTS:DTSID="{AFB512BC-D89E-45F2-A8CE-9A4953DA6D9F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Categoria"
+              DTS:DTSID="{A0EFB808-1427-4A12-98BD-8EB8C2FB1957}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Producto"
+              DTS:DTSID="{A9BFA220-F0E9-410D-A1DD-3F30754D0DCC}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Marca"
+              DTS:DTSID="{F997F7FC-483F-4119-91A2-9081139C366E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="20"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Cantidad"
+              DTS:DTSID="{56A02FE5-F918-41DA-A9D1-C92D3949F2DF}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Unidad"
+              DTS:DTSID="{1C4A4085-E576-4681-8051-F8A5C5F8EDEA}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="500"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Establecimiento"
+              DTS:DTSID="{797DC117-FABA-4A93-8CE8-5CF5F0032098}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="400"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Direccion"
+              DTS:DTSID="{D57C376F-41AB-4CA1-95EF-6C419711CCAA}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de De partamento"
+              DTS:DTSID="{A2D471A0-0130-4648-BD2E-EC83392751CF}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="100"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Municipio"
+              DTS:DTSID="{0A502EC1-124A-4D57-BE5E-DD2F28B0395B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Fecha Sondeo"
+              DTS:DTSID="{10C41F0C-48E5-4C99-AA67-0BD04C9B7D1B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="6"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Copia de Precio_fixed"
+              DTS:DTSID="{21CC85D1-77A3-46BF-A5B2-BFDA42C7B9FC}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="133"
+              DTS:TextQualified="True"
+              DTS:ObjectName="fecha_sondeo_fixed"
+              DTS:DTSID="{50BB72CF-C7FA-4A5C-A706-1DAA9319C67E}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{BFDE5564-1901-49BF-8A47-BAAD86144FC6}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="bulkfiles">
+      <DTS:VariableValue
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+  </DTS:Variables>
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Contenedor de bucles Foreach"
+      DTS:CreationName="STOCK:FOREACHLOOP"
+      DTS:Description="Contenedor de bucles Foreach"
+      DTS:DTSID="{9d3b44bd-a47d-4651-bc6b-822c6e1969ff}"
+      DTS:ExecutableType="STOCK:FOREACHLOOP"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Contenedor de bucles Foreach">
+      <DTS:ForEachEnumerator
+        DTS:CreationName="Microsoft.ForEachFileEnumerator"
+        DTS:DTSID="{4826f60d-e80a-40dd-afa7-aff84dee1249}"
+        DTS:ObjectName="{EBBAEA5D-2F12-4B56-AEED-404CF4E28194}">
+        <DTS:ObjectData>
+          <ForEachFileEnumeratorProperties>
+            <FEFEProperty
+              Folder="C:\Users\Adilson\Documents\GitHub\Laboratorio-de-Datawarehouse\Guia 4 ETL Final\Ejercicio 1\bulkfiles" />
+            <FEFEProperty
+              FileSpec="*.txt" />
+            <FEFEProperty
+              FileNameRetrievalType="0" />
+            <FEFEProperty
+              Recurse="0" />
+          </ForEachFileEnumeratorProperties>
+        </DTS:ObjectData>
+      </DTS:ForEachEnumerator>
+      <DTS:Variables />
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos"
+          DTS:CreationName="Microsoft.Pipeline"
+          DTS:Description="Tarea Flujo de datos"
+          DTS:DTSID="{5C8E3627-F2A7-4B9C-962E-A501E6689F01}"
+          DTS:ExecutableType="Microsoft.Pipeline"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Tarea Flujo de datos"
+          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <pipeline
+              version="1">
+              <components>
+                <component
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha"
+                  componentClassID="Microsoft.DerivedColumn"
+                  contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+                  description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+                  name="Conversion Fecha"
+                  usesDispositions="true">
+                  <inputs>
+                    <input
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Inputs[Derived Column Input]"
+                      description="Input to the Derived Column Transformation"
+                      name="Derived Column Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Inputs[Derived Column Input].Columns[Fecha Sondeo]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="Fecha Sondeo"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Fecha Sondeo]" />
+                      </inputColumns>
+                      <externalMetadataColumns />
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Output]"
+                      description="Default Output of the Derived Column Transformation"
+                      exclusionGroup="1"
+                      name="Derived Column Output"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Inputs[Derived Column Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Output].Columns[fecha_sondeo_fixed]"
+                          dataType="dbDate"
+                          errorOrTruncationOperation="Computation"
+                          errorRowDisposition="IgnoreFailure"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Output].Columns[fecha_sondeo_fixed]"
+                          name="fecha_sondeo_fixed"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Expression"
+                              name="Expression">(DT_DBDATE)([SUBSTRING](#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Fecha Sondeo]},5,4) + "-" + [SUBSTRING](#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Fecha Sondeo]},3,1) + "-" + [SUBSTRING](#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Fecha Sondeo]},1,1))</property>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Friendly Expression"
+                              expressionType="Notify"
+                              name="FriendlyExpression">(DT_DBDATE)(SUBSTRING([Fecha Sondeo],5,4) + "-" + SUBSTRING([Fecha Sondeo],3,1) + "-" + SUBSTRING([Fecha Sondeo],1,1))</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Error Output]"
+                      description="Error Output of the Derived Column Transformation"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="Derived Column Error Output"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Inputs[Derived Column Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data"
+                  componentClassID="Microsoft.FlatFileSource"
+                  contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+                  description="Flat File Source"
+                  localeId="17418"
+                  name="Data"
+                  usesDispositions="true"
+                  version="1">
+                  <properties>
+                    <property
+                      dataType="System.Boolean"
+                      description="Specifies whether zero-length columns are treated as null."
+                      name="RetainNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                      name="FileNameColumnName"></property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Connections[FlatFileConnection]"
+                      connectionManagerID="Package.ConnectionManagers[Administrador de conexiones de archivos planos]"
+                      connectionManagerRefId="Package.ConnectionManagers[Administrador de conexiones de archivos planos]"
+                      name="FlatFileConnection" />
+                  </connections>
+                  <outputs>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output]"
+                      name="Flat File Source Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Categoria]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Categoria]"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Categoria]"
+                          name="Categoria"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Producto]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Producto]"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Producto]"
+                          name="Producto"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Marca]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Marca]"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Marca]"
+                          name="Marca"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Cantidad]"
+                          dataType="i8"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Cantidad]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Cantidad]"
+                          name="Cantidad"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Unidad]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Unidad]"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Unidad]"
+                          name="Unidad"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Precio]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Precio]"
+                          length="50"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Precio]"
+                          name="Precio"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Establecimiento]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Establecimiento]"
+                          length="4000"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Establecimiento]"
+                          name="Establecimiento"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Direccion]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Direccion]"
+                          length="400"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Direccion]"
+                          name="Direccion"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[De partamento]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[De partamento]"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[De partamento]"
+                          name="De partamento"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Municipio]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Municipio]"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Municipio]"
+                          name="Municipio"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Fecha Sondeo]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Fecha Sondeo]"
+                          length="50"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Fecha Sondeo]"
+                          name="Fecha Sondeo"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Categoria]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="Categoria" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Producto]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="Producto" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Marca]"
+                          dataType="wstr"
+                          length="50"
+                          name="Marca" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Cantidad]"
+                          dataType="r4"
+                          name="Cantidad" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Unidad]"
+                          dataType="wstr"
+                          length="50"
+                          name="Unidad" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Precio]"
+                          dataType="cy"
+                          name="Precio" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Establecimiento]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="Establecimiento" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Direccion]"
+                          dataType="wstr"
+                          length="50"
+                          name="Direccion" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[De partamento]"
+                          dataType="wstr"
+                          length="50"
+                          name="De partamento" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Municipio]"
+                          dataType="wstr"
+                          length="50"
+                          name="Municipio" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].ExternalColumns[Fecha Sondeo]"
+                          dataType="wstr"
+                          length="50"
+                          name="Fecha Sondeo" />
+                      </externalMetadataColumns>
+                    </output>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Error Output]"
+                      isErrorOut="true"
+                      name="Flat File Source Error Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          codePage="1252"
+                          dataType="text"
+                          description="Flat File Source Error Output Column"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          name="Flat File Source Error Output Column" />
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion"
+                  componentClassID="Microsoft.DataConvert"
+                  contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+                  description="Data Conversion"
+                  name="Data Conversion"
+                  usesDispositions="true">
+                  <inputs>
+                    <input
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input]"
+                      name="Data Conversion Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Categoria]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Categoria"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Categoria]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Producto]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Producto"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Producto]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Marca]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Marca"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Marca]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Cantidad]"
+                          cachedDataType="i8"
+                          cachedName="Cantidad"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Cantidad]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Unidad]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Unidad"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Unidad]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Establecimiento]"
+                          cachedDataType="wstr"
+                          cachedLength="4000"
+                          cachedName="Establecimiento"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Establecimiento]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Direccion]"
+                          cachedDataType="wstr"
+                          cachedLength="400"
+                          cachedName="Direccion"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Direccion]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[De partamento]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="De partamento"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[De partamento]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Municipio]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Municipio"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Municipio]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Fecha Sondeo]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="Fecha Sondeo"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Fecha Sondeo]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input].Columns[Precio_fixed]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="Precio_fixed"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Output].Columns[Precio_fixed]" />
+                      </inputColumns>
+                      <externalMetadataColumns />
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output]"
+                      exclusionGroup="1"
+                      name="Data Conversion Output"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Categoria]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Categoria]"
+                          name="Copia de Categoria"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Categoria]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Producto]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Producto]"
+                          name="Copia de Producto"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Producto]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Marca]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Marca]"
+                          name="Copia de Marca"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Marca]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Cantidad]"
+                          dataType="i8"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Cantidad]"
+                          name="Copia de Cantidad"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Cantidad]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Unidad]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Unidad]"
+                          name="Copia de Unidad"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Unidad]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Establecimiento]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          length="500"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Establecimiento]"
+                          name="Copia de Establecimiento"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Establecimiento]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Direccion]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          length="400"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Direccion]"
+                          name="Copia de Direccion"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Direccion]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de De partamento]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de De partamento]"
+                          name="Copia de De partamento"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[De partamento]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Municipio]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          length="100"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Municipio]"
+                          name="Copia de Municipio"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Municipio]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Fecha Sondeo]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          length="50"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Fecha Sondeo]"
+                          name="Copia de Fecha Sondeo"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Fecha Sondeo]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Precio_fixed]"
+                          dataType="cy"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="IgnoreFailure"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Precio_fixed]"
+                          name="Copia de Precio_fixed"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.Int32"
+                              description="Specifies the input column used as the source of data for the conversion."
+                              name="SourceInputColumnLineageID">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Output].Columns[Precio_fixed]}</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="Data Conversion Error Output"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column"
+                  componentClassID="Microsoft.DerivedColumn"
+                  contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+                  description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+                  name="Derived Column"
+                  usesDispositions="true">
+                  <inputs>
+                    <input
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Inputs[Derived Column Input]"
+                      description="Input to the Derived Column Transformation"
+                      name="Derived Column Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Inputs[Derived Column Input].Columns[Precio]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="Precio"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Precio]" />
+                      </inputColumns>
+                      <externalMetadataColumns />
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Output]"
+                      description="Default Output of the Derived Column Transformation"
+                      exclusionGroup="1"
+                      name="Derived Column Output"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Inputs[Derived Column Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Output].Columns[Precio_fixed]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Computation"
+                          errorRowDisposition="IgnoreFailure"
+                          length="50"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Output].Columns[Precio_fixed]"
+                          name="Precio_fixed"
+                          truncationRowDisposition="IgnoreFailure">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Expression"
+                              name="Expression">[REPLACE](#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output].Columns[Precio]},"$","")</property>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Friendly Expression"
+                              expressionType="Notify"
+                              name="FriendlyExpression">REPLACE(Precio,"$","")</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Error Output]"
+                      description="Error Output of the Derived Column Transformation"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="Derived Column Error Output"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Inputs[Derived Column Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="Products"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[dbo].[products]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">0</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">false</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[DESKTOP-G8U2RB1\SQLEXPRESS.sv_school_products]"
+                      connectionManagerRefId="Package.ConnectionManagers[DESKTOP-G8U2RB1\SQLEXPRESS.sv_school_products]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de De partamento]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Copia de De partamento"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Departamento]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de De partamento]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[fecha_sondeo_fixed]"
+                          cachedDataType="dbDate"
+                          cachedName="fecha_sondeo_fixed"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Fecha Sondeo]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Output].Columns[fecha_sondeo_fixed]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de Categoria]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Copia de Categoria"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Categoria]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Categoria]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de Producto]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Copia de Producto"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Producto]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Producto]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de Marca]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Copia de Marca"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Marca]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Marca]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de Cantidad]"
+                          cachedDataType="i8"
+                          cachedName="Copia de Cantidad"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Cantidad]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Cantidad]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de Unidad]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Copia de Unidad"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Unidad]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Unidad]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de Establecimiento]"
+                          cachedDataType="wstr"
+                          cachedLength="500"
+                          cachedName="Copia de Establecimiento"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Establecimiento]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Establecimiento]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de Direccion]"
+                          cachedDataType="wstr"
+                          cachedLength="400"
+                          cachedName="Copia de Direccion"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Direccion]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Direccion]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de Municipio]"
+                          cachedDataType="wstr"
+                          cachedLength="100"
+                          cachedName="Copia de Municipio"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Municipio]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Municipio]" />
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].Columns[Copia de Precio_fixed]"
+                          cachedDataType="cy"
+                          cachedName="Copia de Precio_fixed"
+                          externalMetadataColumnId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Precio]"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Precio_fixed]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Categoria]"
+                          dataType="wstr"
+                          length="100"
+                          name="Categoria" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Producto]"
+                          dataType="wstr"
+                          length="100"
+                          name="Producto" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Marca]"
+                          dataType="wstr"
+                          length="100"
+                          name="Marca" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Cantidad]"
+                          dataType="numeric"
+                          name="Cantidad"
+                          precision="18" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Unidad]"
+                          dataType="wstr"
+                          length="100"
+                          name="Unidad" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Precio]"
+                          dataType="cy"
+                          name="Precio" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Establecimiento]"
+                          dataType="wstr"
+                          length="4000"
+                          name="Establecimiento" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Direccion]"
+                          dataType="wstr"
+                          length="400"
+                          name="Direccion" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Departamento]"
+                          dataType="wstr"
+                          length="100"
+                          name="Departamento" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Municipio]"
+                          dataType="wstr"
+                          length="100"
+                          name="Municipio" />
+                        <externalMetadataColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input].ExternalColumns[Fecha Sondeo]"
+                          dataType="dbDate"
+                          name="Fecha Sondeo" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos"
+                  componentClassID="Microsoft.ConditionalSplit"
+                  contactInfo="Conditional Split;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+                  description="Routes data rows to different outputs depending on the content of the data. Use conditions (SSIS expressions) to specify which rows are routed. For example, separate records that need to be cleaned from those that are ready to be loaded or route only a subset of records."
+                  name="Valores_Negativos"
+                  usesDispositions="true">
+                  <inputs>
+                    <input
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Inputs[Conditional Split Input]"
+                      description="Input to the Conditional Split Transformation"
+                      name="Conditional Split Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Inputs[Conditional Split Input].Columns[Copia de Precio_fixed]"
+                          cachedDataType="cy"
+                          cachedName="Copia de Precio_fixed"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Precio_fixed]" />
+                      </inputColumns>
+                      <externalMetadataColumns />
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Outputs[Mayor que cero]"
+                      description="Output 1 of the Conditional Split Transformation"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="IgnoreFailure"
+                      exclusionGroup="1"
+                      name="Mayor que cero"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Inputs[Conditional Split Input]"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                          name="Expression">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Precio_fixed]} &gt;= 0</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Specifies the friendly version of the expression. This expression version uses column names."
+                          expressionType="Notify"
+                          name="FriendlyExpression">[Copia de Precio_fixed] &gt;= 0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                          name="EvaluationOrder">0</property>
+                      </properties>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Outputs[Menor que cero]"
+                      description="Output 2 of the Conditional Split Transformation"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="IgnoreFailure"
+                      exclusionGroup="1"
+                      name="Menor que cero"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Inputs[Conditional Split Input]"
+                      truncationRowDisposition="IgnoreFailure">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                          name="Expression">#{Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output].Columns[Copia de Precio_fixed]} &lt; 0</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Specifies the friendly version of the expression. This expression version uses column names."
+                          expressionType="Notify"
+                          name="FriendlyExpression">[Copia de Precio_fixed] &lt; 0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                          name="EvaluationOrder">1</property>
+                      </properties>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Outputs[Conditional Split Default Output]"
+                      description="Default Output of the Conditional Split Transformation"
+                      exclusionGroup="1"
+                      name="Conditional Split Default Output"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Inputs[Conditional Split Input]">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          name="IsDefaultOut">true</property>
+                      </properties>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Outputs[Conditional Split Error Output]"
+                      description="Error Output of the Conditional Split Transformation"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="Conditional Split Error Output"
+                      synchronousInputId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Inputs[Conditional Split Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+              </components>
+              <paths>
+                <path
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Data Conversion Output]"
+                  endId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Inputs[Derived Column Input]"
+                  name="Data Conversion Output"
+                  startId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Outputs[Data Conversion Output]" />
+                <path
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Derived Column Output]"
+                  endId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion.Inputs[Data Conversion Input]"
+                  name="Derived Column Output"
+                  startId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Outputs[Derived Column Output]" />
+                <path
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Derived Column Output1]"
+                  endId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Inputs[Conditional Split Input]"
+                  name="Derived Column Output"
+                  startId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha.Outputs[Derived Column Output]" />
+                <path
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Flat File Source Output]"
+                  endId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column.Inputs[Derived Column Input]"
+                  name="Flat File Source Output"
+                  startId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data.Outputs[Flat File Source Output]" />
+                <path
+                  refId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Mayor que cero]"
+                  endId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products.Inputs[OLE DB Destination Input]"
+                  name="Mayor que cero"
+                  startId="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos.Outputs[Mayor que cero]" />
+              </paths>
+            </pipeline>
+          </DTS:ObjectData>
+        </DTS:Executable>
+      </DTS:Executables>
+      <DTS:ForEachVariableMappings>
+        <DTS:ForEachVariableMapping
+          DTS:CreationName=""
+          DTS:DTSID="{4D4F2366-1975-45E4-85EE-73A488C50035}"
+          DTS:ObjectName="{4D4F2366-1975-45E4-85EE-73A488C50035}"
+          DTS:ValueIndex="0"
+          DTS:VariableName="User::bulkfiles" />
+      </DTS:ForEachVariableMappings>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--Esta sección CDATA contiene la información de diseño del paquete. Esta sección incluye información como, por ejemplo, las coordenadas (x,y), el ancho y el alto.-->
+<!--Si edita manualmente esta sección y comete un error, puede eliminarlo. -->
+<!--El paquete podrá cargarse normalmente, pero se perderá la información de diseño anterior y el diseñador reorganizará los elementos automáticamente en la superficie de diseño.-->
+<Objects
+  Version="8">
+  <!--Cada uno de los nodos siguientes contiene propiedades que no afectan al comportamiento en tiempo de ejecución.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="180,42"
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos"
+          TopLeft="46,23" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="245,129"
+          Size="253,172"
+          Id="Package\Contenedor de bucles Foreach"
+          TopLeft="154,123" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+  <TaskHost
+    design-time-name="Package\Contenedor de bucles Foreach\Tarea Flujo de datos">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Valores_Negativos"
+          TopLeft="604,213" />
+        <NodeLayout
+          Size="122,42"
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Products"
+          TopLeft="626,305" />
+        <NodeLayout
+          Size="154,42"
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Derived Column"
+          TopLeft="315,58" />
+        <NodeLayout
+          Size="102,42"
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data"
+          TopLeft="49,56" />
+        <NodeLayout
+          Size="156,42"
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Data Conversion"
+          TopLeft="610,59" />
+        <NodeLayout
+          Size="162,42"
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos\Conversion Fecha"
+          TopLeft="609,136" />
+        <EdgeLayout
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Flat File Source Output]"
+          TopLeft="151,78">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="164,0"
+              Start="0,0"
+              End="156.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="156.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Data Conversion Output]"
+          TopLeft="689,101">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,35"
+              Start="0,0"
+              End="0,27.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Mayor que cero]"
+          TopLeft="688.25,255">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,50"
+              Start="0,0"
+              End="0,42.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,42.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-34.74203125,15.60888671875,69.4840625,11.2822265625"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Derived Column Output1]"
+          TopLeft="689.75,178">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,35"
+              Start="0,0"
+              End="0,27.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Contenedor de bucles Foreach\Tarea Flujo de datos.Paths[Derived Column Output]"
+          TopLeft="469,79.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="141,0"
+              Start="0,0"
+              End="133.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="133.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>
