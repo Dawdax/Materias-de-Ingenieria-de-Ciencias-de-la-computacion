@@ -1,0 +1,4 @@
+https://sqlpsykrest.wordpress.com/2009/01/22/sql-procedimiento-almacenado-para-insertar-datos-con-transaccin-y-control-de-errores/
+https://www.sqlshack.com/es/creando-usando-procedimientos-almacenados-crud/
+https://social.technet.microsoft.com/wiki/contents/articles/19267.manejo-de-cursores-en-sql-server-es-es.aspx
+https://docs.microsoft.com/es-es/sql/relational-databases/system-stored-procedures/sp-cursor-list-transact-sql?view=sql-server-ver15

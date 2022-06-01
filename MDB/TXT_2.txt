@@ -1,0 +1,64 @@
+https://www.microsoft.com/es-mx/download/details.aspx?id=42299
+https://www.sqlshack.com/es/como-poder-instalar-sql-server-2014-management-studio/
+------------------------------------------------------------------------------------
+--Creando la Base de datos
+	USE master;
+	GO
+	CREATE DATABASE Control_AutorLibros
+	GO 
+
+--Creando las tablas 
+--Tabla Autor
+
+	Use Control_AutorLibros
+	GO
+	CREATE TABLE Autor
+	(CodigoAutor char(5)NOT NULL,
+	 PrimerNombre varchar(25),
+	 PrimerApellido varchar(30),
+	 FechaNacimiento date,
+	 Nacionalidad varchar(35)
+	)
+	GO
+
+--Tabla Libro
+	CREATE TABLE Libro
+	(CodigoLibro char(10)NOT NULL,
+	 Titulo varchar(max),
+	 ISBN varchar(20) NOT NULL,
+	 A�oEdicion char(4),
+	 CodigoEditorial char(5)
+	)
+	GO
+
+--Tabla Editorial
+	CREATE TABLE Editorial
+	(CodigoEditorial char(5)NOT NULL,
+	 Nombre varchar(45),
+	 Pais varchar(50)
+	)
+	GO
+
+--Tabla Detalle_AutorLibro
+	CREATE TABLE Detalle_AutorLibro
+	(CodigoAutor char(5),
+	 CodigoLibro char(10),
+	 Fecha date
+	)
+	GO
+--Restriccion Default
+	ALTER TABLE Detalle_AutorLibro
+	ADD CONSTRAINT DF_fecha
+	DEFAULT getdate() FOR Fecha;
+	GO
+--Restriccion Check
+	ALTER TABLE Libro
+	ADD CONSTRAINT CK_a�oedicion
+	CHECK (A�oEdicion> 2010);
+	GO
+--Restriccion Unique
+	ALTER TABLE Libro
+	ADD CONSTRAINT U_isbn
+	UNIQUE(ISBN)
+	GO
+-------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+Libro de AJAX
+https://cbues.bibliotecasdigitales.com/description?institution_id=80&book_id=1338
+----------------------------------------------------------------------------------------
+Libro de AJAX en J2EE
+https://cbues.bibliotecasdigitales.com/read/9788499644110/index
+---------------------------------------------------------------------------------------
+AJAX desde 0
+https://www.youtube.com/watch?v=Qk2cqRtWkDo&ab_channel=Programaci%C3%B3nym%C3%A1s
+------------------------------------------------------------------------------------------
